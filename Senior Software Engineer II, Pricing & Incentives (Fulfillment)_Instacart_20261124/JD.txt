@@ -1,0 +1,190 @@
+Senior Software Engineer II, Pricing & Incentives (Fulfillment)
+United States - Remote
+We're transforming the grocery industry
+
+At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.
+
+Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.
+
+Instacart is a Flex First team
+
+There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.
+
+Overview
+We're hiring a Senior Software Engineer II to be the backend lead for Instacart's Pricing & Incentives team. The team is a mix of ML and backend engineers building the systems behind shopper pay and incentives. We use ML to make real-time, financially critical, compliance-sensitive decisions that keep shopper pay fair, protect contribution profit, and keep orders on time. We also own Shopper Incentives (getting shoppers online in the right place at the right time), Shopper Acquisition, and Tip Recommendations.
+
+The team drives roughly a third of the company's annual contribution profit goal, so your work will show up directly in business results.
+
+About the Job
+Serve as the backend lead for the pricing system, a financially critical platform where correctness and reliability matter
+Design, build, and operate scalable backend systems that power real-time pricing, shopper pay, and incentive decisions
+Build and improve ML infrastructure in close partnership with ML engineers, data scientists, and product managers
+Proactively identify gaps in system design, reliability, and correctness, and drive them to resolution
+Own systems end to end, from design and development through testing, deployment, and operations
+Grow into the go-to expert on the pricing stack, with a clear path toward Staff Engineer
+About You
+Minimum Qualifications
+5+ years of professional software engineering experience, including experience at the senior level
+Experience building and operating scalable, production backend systems
+Experience owning financially critical or high-stakes systems where correctness matters
+A track record of driving business outcomes, not just shipping code
+Preferred Qualifications
+Experience working closely with ML engineers or on ML infrastructure
+Experience building real-time systems
+Experience in pricing, payments, marketplace, or other financially sensitive domains
+#LI-Remote
+
+Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy here.
+
+Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings here.
+
+For US based candidates, the base pay ranges for a successful candidate are listed below.
+
+CA, NY, CT, NJ
+
+$230,000 - $242,500 USD
+
+WA
+
+$220,000 - $232,000 USD
+
+OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI
+
+$211,000 - $222,500 USD
+
+All other states
+
+$192,000 - $202,500 USD----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Software Engineer II, Pricing & Incentives (Fulfillment)
+United States - Remote
+We're transforming the grocery industry
+
+At Instacart, we invite the world to share love through food because we believe everyone should have access to the food they love and more time to enjoy it together. Where others see a simple need for grocery delivery, we see exciting complexity and endless opportunity to serve the varied needs of our community. We work to deliver an essential service that customers rely on to get their groceries and household goods, while also offering safe and flexible earnings opportunities to Instacart Personal Shoppers.
+
+Instacart has become a lifeline for millions of people, and we’re building the team to help push our shopping cart forward. If you’re ready to do the best work of your life, come join our table.
+
+Instacart is a Flex First team
+
+There’s no one-size fits all approach to how we do our best work. Our employees have the flexibility to choose where they do their best work—whether it’s from home, an office, or your favorite coffee shop—while staying connected and building community through regular in-person events. Learn more about our flexible approach to where we work.
+
+Overview
+We're hiring a Senior Software Engineer II to be the backend lead for Instacart's Pricing & Incentives team. The team is a mix of ML and backend engineers building the systems behind shopper pay and incentives. We use ML to make real-time, financially critical, compliance-sensitive decisions that keep shopper pay fair, protect contribution profit, and keep orders on time. We also own Shopper Incentives (getting shoppers online in the right place at the right time), Shopper Acquisition, and Tip Recommendations.
+
+The team drives roughly a third of the company's annual contribution profit goal, so your work will show up directly in business results.
+
+About the Job
+Serve as the backend lead for the pricing system, a financially critical platform where correctness and reliability matter
+Design, build, and operate scalable backend systems that power real-time pricing, shopper pay, and incentive decisions
+Build and improve ML infrastructure in close partnership with ML engineers, data scientists, and product managers
+Proactively identify gaps in system design, reliability, and correctness, and drive them to resolution
+Own systems end to end, from design and development through testing, deployment, and operations
+Grow into the go-to expert on the pricing stack, with a clear path toward Staff Engineer
+About You
+Minimum Qualifications
+5+ years of professional software engineering experience, including experience at the senior level
+Experience building and operating scalable, production backend systems
+Experience owning financially critical or high-stakes systems where correctness matters
+A track record of driving business outcomes, not just shipping code
+Preferred Qualifications
+Experience working closely with ML engineers or on ML infrastructure
+Experience building real-time systems
+Experience in pricing, payments, marketplace, or other financially sensitive domains
+#LI-Remote
+
+Instacart provides highly market-competitive compensation and benefits in each location where our employees work. This role is remote and the base pay range for a successful candidate is dependent on their permanent work location. Please review our Flex First remote work policy here.
+
+Offers may vary based on many factors, such as candidate experience and skills required for the role. Additionally, this role is eligible for a new hire equity grant as well as annual refresh grants. Please read more about our benefits offerings here.
+
+For US based candidates, the base pay ranges for a successful candidate are listed below.
+
+CA, NY, CT, NJ
+
+$230,000 - $242,500 USD
+
+WA
+
+$220,000 - $232,000 USD
+
+OR, DE, ME, MA, MD, NH, RI, VT, DC, PA, VA, CO, TX, IL, HI
+
+$211,000 - $222,500 USD
+
+All other states
+
+$192,000 - $202,500 USD
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+

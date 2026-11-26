@@ -1,0 +1,86 @@
+Sr Microsoft Cloud Engineer
+Pheaa
+Apply
+
+
+
+Sr Microsoft Cloud Engineer
+Harrisburg, PA • Remote
+Apply
+
+
+Pheaa
+ • 
+Finance and Insurance
+ • 
+1,001 - 5,000 employees
+Learn more about Pheaa
+$103K - $141K/yr
+
+Estimated pay
+Full-time
+Posted 8 hours ago
+Posted today
+Job description
+PHEAA is a nonprofit student aid organization that holds a mission of providing affordable access to higher education.
+
+Give back tomorrow by joining us today!
+
+Salary: Grade 18
+
+Shift: Monday through Friday 8:00 AM - 5:00 PM - This position allows for work from home on a conditional basis up to 3 days per week. 
+
+Location: PHEAA Headquarters - 1200 North 7th Street, Harrisburg, PA 17102
+
+Benefits: Please  click here to learn about PHEAA's Total Rewards Benefits.
+
+Department: Information Technology
+
+Job Summary
+
+The Sr Microsoft Cloud Engineer position serves as a senior technical subject matter expert responsible for the architecture, design, implementation, advancement, and ongoing support of Microsoft 365 cloud services across the Agency. While the role spans the broader Microsoft ecosystem-including Microsoft Purview, Power Platform, Microsoft 365 Copilot, Exchange Online, Teams, OneDrive, Entra ID, Defender, and related cloud technologies-it carries a heightened and missioncritical responsibility for advanced SharePoint Online engineering and solution development. This role is expected to possess deep expertise in modern SharePoint architecture and custom solution engineering, including the design of scalable site structures, content models, integration patterns, automation frameworks, and reusable components that meet enterpriselevel standards for performance, security, usability, and governance. This senior role provides authoritative platform leadership in SharePoint engineering, as well as in information governance and compliance engineering using Microsoft Purview, business process automation through Power Platform, and the secure implementation of emerging Microsoft AI capabilities. This role operates with a high degree of independence and technical authority, developing architectural standards and engineering best practices, evaluating emerging technologies, and partnering closely with business and technical stakeholders to ensure the delivery of secure, scalable, and effective Microsoft cloud solutions.
+
+Primary Duties and Responsibilities
+
+Microsoft 365 Architecture, Engineering, and Administration
+
+Provide senior-level engineering expertise for everyday system administration, troubleshooting, new feature evaluation and rollout, and ongoing platform growth and enhancements related to the Microsoft 365 cloud services, including Exchange Online, SharePoint Online, OneDrive, Teams, Entra ID, Defender, Purview, and Power Platform.
+Perform design, configuration, optimization, and lifecycle administration of Microsoft 365 services following industry standards, Microsoft best practices, and Agency security requirements.
+Develop Microsoft 365 architectural standards, governance models, operational processes, and technical documentation.
+Provide advanced troubleshooting and escalation support for complex Microsoft 365 platform issues.
+Develop advanced PowerShell scripts and automation solutions to improve operational efficiency, consistency, and reliability.
+Evaluate Microsoft roadmap changes and emerging technologies to identify opportunities, risks, and recommend platform improvements.
+
+SharePoint Online Development and Collaboration Platform Engineering
+
+Serve as a senior technical subject matter expert for advanced SharePoint Online capabilities beyond traditional document management and file collaboration, for example, which includes (but not limited to) assessing business unit needs and developing advanced business solutions and building integrations and automation. 
+Design, develop, and implement modern SharePoint solutions including advanced lists, pages, workflows, metadata structures, integrations, and business-focused collaboration experiences.
+Collaborate with business units to understand operational requirements and translate needs into scalable Microsoft 365 solutions.
+Develop integrations between SharePoint Online and other Microsoft 365 services, Power Platform solutions, and approved third-party applications.
+Develop and maintain SharePoint governance standards, development practices, lifecycle processes, and adoption recommendations.
+
+Microsoft Purview, Information Governance, and Compliance Engineering
+
+Provide advanced technical expertise for the design, implementation, and administration of Microsoft Purview information protection and governance capabilities.
+Develop and maintain data classification strategies, sensitivity labels, retention policies, and information lifecycle management solutions.
+Design, configure, and enhance Data Loss Prevention (DLP) controls across Microsoft 365 workloads.
+Collaborate with Security, Privacy, Legal, Records Management, and business stakeholders to translate governance requirements into effective technical solutions.
+Monitor emerging Microsoft compliance capabilities and recommend improvements to strengthen Agency data protection strategies.
+
+Power Platform and Microsoft Cloud Innovation
+
+Design, develop, and support solutions utilizing Microsoft Power Platform, including Power Automate and Power Apps.
+Create workflow automation and business process improvement solutions integrated with Microsoft 365 services.
+Develop and maintain Power Platform governance practices, security controls, development standards, and lifecycle processes.
+Support the adoption and governance of emerging Microsoft AI capabilities, including Microsoft 365 Copilot, Copilot Studio, agents, connectors, and related technologies.
+Develop expertise in Microsoft AI solutions and evaluate opportunities to securely leverage AI capabilities to improve business productivity and efficiency.
+
+Other Duties and Responsibilities 
+
+Remain current on Microsoft solutions including Active Directory, Microsoft 365, Azure, SCCM, Windows server and client OS, Mac OS, iOS.
+Develop and publish project schedules, road maps and report on accomplishments.
+Communicate outages and issues to senior management and business units, provide cause and resolution once issues have been resolved.
+Comply with the Agency's enterprise security and privacy policies and departmental procedures.
+Maintain accurate and current National Institute of Standards Technology (NIST) procedures and documentation.
+Participate in Business Continuity/Disaster Recovery planning and testing.
+Other duties as assigned.

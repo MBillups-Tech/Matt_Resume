@@ -1,0 +1,91 @@
+Director, Software Engineering (Remote)
+Oak Brook, IL • Remote
+Apply
+
+
+Inspira Financial
+ • 
+Finance and Insurance
+ • 
+1,001 - 5,000 employees
+Learn more about Inspira Financial
+$255K/yr
+
+Estimated pay
+Full-time
+Posted 7 hours ago
+Posted today
+Job description
+Position Summary:
+
+We are seeking aPlatformSoftware EngineeringDirectorto join our growing team. This roleis responsible forthe full software development life cycle, from conception to deployment. As aPlatformSoftware EngineeringDirector, you will have relevant experience with both front-end and back-end coding languages, software development architecture and design patterns, developmentframeworksand third-partylibraries.The ideal candidate will have a strong backgroundleading teamsdeveloping consumer-facing digital productsin collaborationwith product and design leaders.This individual must be creative, client focused,team player, organized, and can thrive in a dynamic environment.
+
+At First Dollar, we believe in empowering engineers to build a smarter health benefits platform - one where humanexpertiseis amplified, not replaced, by AI tools. We seek engineers who havedemonstratedexperience using AI responsibly to accelerate their development workflow, improve code quality, and solve complex problems more efficiently.
+
+Our engineering team is built on theprinciplesof humans over code. We are a tight-knit group of lifelong learners in a constant quest to be a team that is greater than the sum of its parts. Come join us!
+
+Duties & Responsibilities:
+
+As amember of the Research and Development / Product Leadership team,will provide design services, resource planning,workestimationand coordination for multiple delivery teams
+Lead a team of software engineers and quality engineersto design, develop, and test applications(e.g.API, web apps)in accordance withestablished standards.
+Collaborate with Product and Design Leaders to lead product delivery teams.
+Set short to medium term technical direction, creating plans to help achieve goals
+Participatein peer-reviews of solution designs and related code.
+Package and support deployment of releases.
+Foster an environment wheredifferent backgrounds, cultures,industryand life experiences are embraced and valued.
+Collaborate on architecture decisions, ensuring that we are adapting and evolving to meetorganization'sscaling business needs
+Collaborate with other software developers,productmanagersand software architects to plan,designand deliver applications.
+Assess opportunities for application and process improvement and prepare documentation of rationale to share with team members and other affected parties.
+Adhere to high-quality development principles while delivering solutionson timeandwithin budget.
+Ensure that non-functional requirements such as security, performance, maintainability, scalability, usability, and reliability are being considered when architecting solutions.
+Work in an Agile framework toidentifyand automate solutions that result in enhanced developer experience and increased developer productivity.
+Stay abreast of emerging technologies, industry trends, and best practices in solution architecture and technology innovation.
+Contribute towards defining andestablishingbenchmarks, metrics, and quality measures.
+Leverage AI as a tool, not a replacement - Candidates are expected to understand that AI is a power productivity multiplier whilemaintainingengineering judgment, and ensuring AI generated code meets quality standards
+Full code ownership mandatory - Must understand, explain, and support all AI-assisted code as if written from scratch
+Troubleshoot, debug and upgrade software
+Other duties as assigned.
+Supervisory Responsibilities:
+
+Provide direction, guidance, and support to a team of employees. Set clear expectations, delegate tasks, and ensure effective communication within the team.
+Evaluate employee performance, provide feedback, and conduct performance reviews.Identifyareas for development and create plans to enhance team members' skills.
+Uniformlyidentifyhigh performers who consistently produce quality work.
+Remove barriers for the team, ensuring team members have all the tools, resources, and context to execute.
+Active coaching of the team and developing individual development plans for all team members.
+Overcome challenges and conflicts that arise within the team or projects.
+Make decisions that balancevarious factorsand contribute to the overall success of the organization.
+Cultivate relationships with clients, partners, and other departments tofacilitatecollaboration and achieve common goals.
+Recruits, interviews, hires, and trains new team members.
+Education & Experience:
+
+10 or moreyears of experience in software or solution architecture roles, with a focus on designing and implementing complex, enterprise-level solutions using cloudplatform.
+Strong knowledge of software architecture principles, design patterns, and architectural frameworks.
+Strong understanding of Continuous Delivery patterns, Cloud foundational patterns, Observability patterns, Developer experience patterns.
+Strong analytical and problem-solving skills.
+Practical AI experience - Comfortable using tools like GitHub Copilot, ChatGPT, or Claude for prototyping, debugging, and problem-solving
+Bachelor's degree in computer science or equivalent experience
+Technical Proficiencyand Skills:
+
+Proficiencywith:
+Node.js
+React
+TypeScript
+ApolloGraphQL
+Git Version Control System
+PostgreSQL
+Google Cloud
+Jest
+Docker Container
+CI/CD Pipelines
+Experience with one or more cloud platforms, preferably GCP
+Excellent communication and teamwork skills
+Great attention to detail and organizational skills
+Experience delivering individual and institutional client facing solutions; Web Portal(s), online payments, and third-party integrations
+Good understanding of Agile/Scrummethodology
+Expertisein delivering secure, high performance, fault-tolerant, and high availability solutions
+Experience with DevOps, GitHub, CI/CD,SecDevOps, Containers, Serverless
+Other Requirements:
+
+Infrequent travel (10%)
+Ability to occasionally work overtime or after hours
+Prolonged periods of sitting at a desk and working on a computer

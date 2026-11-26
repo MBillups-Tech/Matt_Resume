@@ -1,0 +1,85 @@
+Senior Data Platform Operations Engineer
+Centre, AL • On-site, Remote
+Apply
+
+
+Sentara
+ • 
+Hospitals
+ • 
+10,000+ employees
+Learn more about Sentara
+$123K - $158K/yr
+
+Estimated pay
+Full-time
+Medical, Dental, Vision, Life, Retirement, PTO
+Posted 13 hours ago
+Posted today
+Job description
+City/State
+
+Virginia Beach, VA
+Work Shift
+
+First (Days)
+Overview:
+
+Overview
+The Senior Data Platform Operations Engineer builds and operates reliable, secure, automated services that support enterprise data integration, metadata, governance, deployment, and hybrid connectivity. The position focuses on DataHub, Fivetran Hybrid, AKS-dependent services, self-hosted integration runtimes, production deployment automation, monitoring, and the shared operational interfaces among EDS, Cloud, DevOps, and application teams.
+
+
+Education
+Bachelor's Degree (Preferred)
+or an equivalent combination of education and relevant professional experience that demonstrates the required competencies.
+Certification/Licensure
+Relevant Azure, Kubernetes, Terraform, DevOps, or data-integration certification. (Preferred)
+
+
+Experience
+Experience supporting and troubleshooting production cloud, DevOps, container, integration, and infrastructure platforms within complex enterprise environments.
+Hands-on experience with Kubernetes or Azure Kubernetes Service (AKS), including deployments, monitoring, connectivity, incident resolution, and container management.
+Experience automating platform operations using Terraform or other Infrastructure as Code (IaC), CI/CD pipelines, PowerShell, Python, Bash, APIs, or command-line tools.
+Working knowledge of Azure cloud infrastructure, including identity, networking, secrets management, security, monitoring, capacity, recovery, and hybrid cloud connectivity.
+Experience supporting hybrid data integration and production environments, collaborating across Cloud, DevOps, Security, Infrastructure, and application teams; experience within healthcare or another regulated environment preferred.
+
+
+
+We provide market-competitive compensation packages, inclusive of base pay, incentives, and benefits. The base pay range for full-time employment is 131,976.00 - 198,016.00 annually. Additional compensation may be available for this role, such as shift differentials, on-call pay, shift premiums, extra-shift incentives, or bonus opportunities. Compensation within the range may vary based on qualifications, experience, location, market conditions, and business needs. Note: If an annual salary is posted, it is based on a full-time colleague working 2,080 hours annually.
+
+Sentara offers a comprehensive benefits package, including medical, dental, vision, life and disability insurance; 401(k)/403(b) with employer match; paid time off (vacation, sick time, and holidays); paid parental and military leave; educational assistance or student loan repayment; and voluntary benefits.
+
+Benefits: Caring For Your Family and Your Career
+
+Medical, Dental, Vision plans
+
+Adoption, Fertility and Surrogacy Reimbursement up to 10,000
+
+Paid Time Off and Sick Leave
+
+Paid Parental & Family Caregiver Leave
+
+Emergency Backup Care
+
+Long-Term, Short-Term Disability, and Critical Illness plans
+
+Life Insurance
+
+401k/403B with Employer Match
+
+Tuition Assistance - 5,250/year and discounted educational opportunities through Guild Education
+
+Student Debt Pay Down - 10,000
+
+Pet Insurance
+Legal Resources Plan
+Colleagues have the opportunity to earn an annual discretionary bonus ifestablished system and employee eligibility criteria is met.
+
+Sentara Health is an equal opportunity employer and prides itself on the diversity and inclusiveness of its close to an almost 30,000-member workforce. Diversity, inclusion, and belonging is a guiding principle of the organization to ensure its workforce reflects the communities it serves.
+
+
+In support of our mission "to improve health every day," this is a tobacco-free environment.
+
+For positions that are available as remote work, Sentara Health employs associates in the following states:
+
+Alabama, Delaware, Florida, Georgia, Idaho, Indiana, Kansas, Louisiana, Maine, Maryland, Minnesota, Nebraska, Nevada, New Hampshire, North Carolina, North Dakota, Ohio, Oklahoma, Pennsylvania, South Carolina, South Dakota, Tennessee, Texas, Utah, Virginia, Washington, West Virginia, Wisconsin, and Wyoming.

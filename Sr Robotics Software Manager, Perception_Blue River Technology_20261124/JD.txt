@@ -1,0 +1,228 @@
+Sr Robotics Software Manager, Perception
+Department: See & Spray
+Location: Remote-US
+Apply Now
+
+Position Description
+We’re Blue River, a team of innovators driven to create intelligent machinery that solves monumental problems for our customers. We empower our customers – farmers, construction crews, and foresters to implement safer and more sustainable solutions, driving increased profitability with less reliance on scarce labor. We believe that focusing on the small stuff, pixel-by-pixel and task-by-task, leads to big gains. 
+
+Blue River Technology aligns with John Deere’s vision to “innovate on behalf of humanity” by quickly identifying and solving high-value, high-uncertainty challenges in AI, machine learning, computer vision, and robotics. BRT acts as a research and development flywheel, building not only new products but also new platforms that reliably create value for both Deere and its customers. From fully autonomous machines to highly precise farming equipment, BRT and Deere are partnering to deliver technical breakthroughs across industries such as agriculture and construction. 
+
+Our people are at the heart of what we do. Through cross-disciplinary collaboration, this mission-driven team is eager to define the new frontier of robotics. We ask hard questions, iterate rapidly, and get our boots in the field to figure it out. We won’t give up until we’ve made a tangible and positive impact on the planet!
+
+Blue River Technology is based in Santa Clara, CA. 
+
+ 
+
+Summary
+
+We are seeking a high-caliber Senior Robotics Software Manager to build, scale, and lead the engineering team responsible for delivering our production perception pipeline – including camera integration, model inference, runtime optimization, deployment, and spatial mapping. In this role, you will balance people leadership, architectural stewardship, and cross-functional execution to deploy intelligent systems reliably at scale. You will define the strategic technical direction for the perception pipeline and internal tooling, navigate architectural trade-offs, champion engineering rigor across test and release, and align with cross-functional leadership to drive predictable roadmap execution.
+
+Beyond technical execution, you will serve as a culture carrier, operationalizing our core values and principles into daily practices while scaling a high-trust, inclusive, and performant team.
+
+Employment Type: Full-Time
+Work Location: Remote in the United States
+Visa sponsorship: Open to visa sponsorship.
+Job Responsibilities
+
+A combination, not necessarily all-inclusive, of the following:
+
+People Leadership & Talent Development
+Build, coach, and retain a high-performing software engineering team through career development paths, regular feedback cycles, and proactive performance management.
+Lead hiring and onboarding to scale perception engineering capabilities while fostering a culture of trust, learning, and inclusivity.
+Technical Leadership 
+Own the design, stability, observability, and evolution of the perception software pipeline. 
+Champion engineering best practices for software development, system design, and code quality.
+Establish data-driven mechanisms to track software stability, enforce rigorous testing and release standards, and systematically prioritize technical debt reduction.
+Drive internal tooling and infrastructure improvements to enable faster experimentation and rapid iteration across the team.
+Cross-Functional Collaboration
+Partner closely with Core Software infrastructure to optimize real-time middleware, data-transport, and image pipelines for performance.
+Collaborate with Systems, Data, CV/ML, QA, Hardware, and downstream planning/actuation teams to allocate capacity and deliver cohesive, mission-critical product milestones.
+Clearly communicate architectural trade-offs and build consensus with cross-functional leadership to deliver on business outcomes.
+Execution & Ownership
+Dive in to unblock teams, resolve complex technical bottlenecks, and accelerate critical decision-making.
+Lead the end-to-end delivery of initiatives from initial design through production deployment.
+Apply a customer-first mindset to ensure solutions drive meaningful impact.
+Required Experience and Skills
+
+Leadership & Operational Execution:
+3+ years of direct people management experience, including talent acquisition, onboarding, career progression, mentorship, and performance management.
+Proven track record of driving efficient delivery using Agile methodologies (Scrum/Kanban) and tools like Jira (or equivalent) for capacity planning and roadmapping across complex cross-functional dependencies.
+Demonstrated ability to operationalize leadership principles and core values into everyday decisions, standards, and team culture.
+Technical Skills:
+6+ years of hands-on software engineering experience in robotics, perception, embedded systems, or autonomous platforms, demonstrating technical depth and judgment of a senior/staff-level engineer.
+Strong programming experience in C++ (14/17/20) for real-time systems, Python for tooling and automation.
+Experience in modern test automation (e.g., simulation, HIL), chained CI/CD pipelines, and robust Git workflows.
+General Skills:
+Strong architectural judgment and problem-solving skills.
+Excellent communication and collaboration abilities.
+Preferred Experience and Skills
+
+Experience with robotics middleware and real-time communication frameworks.
+Hands-on experience combining camera streams with other sensors (such as LiDAR and IMUs) on embedded compute platforms (e.g., NVIDIA Jetson / Orin).
+Experience leveraging simulated environments (e.g., Isaac Sim) and synthetic dataset pipelines for perception validation.
+Exposure to data processing frameworks (e.g., Spark, Airflow, or similar).
+Experience with safety and reliability standards, such as IEC 61508.
+ 
+
+Only individual applicants will be considered. We do not work with unsolicited third-party agencies or proxy interview services. 
+
+At Blue River, your base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $174,000 – $305,000/year for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. This position is also eligible for an annual performance bonus and a competitive benefit package. During the recruitment process, we may identify an alternative role or level to which you are more suited. If your ideal role at Blue River differs from the advertised position, we will provide an updated pay range as soon as possible during the hiring process.
+
+We’re passionate about creating an inclusive workplace that promotes and values diversity. While we have more work to do to advance diversity and inclusion, we’re investing in our programs, including recruiting, mentorship, career development, and learning & development, to ensure they support our Diversity, Equity, and Inclusion goals. We support each employee in living a full life, enabling a thriving career, and accomplishing a meaningful, challenging mission while collaborating with incredible people. We are dedicated to building a diverse and inclusive workplace, so if you’re excited about this role but your experience doesn’t align completely with the job description, we encourage you to apply anyway.
+
+We are an equal-opportunity employer and do not discriminate based on race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+#LI-AN1----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Sr Robotics Software Manager, Perception
+Department: See & Spray
+Location: Remote-US
+Apply Now
+
+Position Description
+We’re Blue River, a team of innovators driven to create intelligent machinery that solves monumental problems for our customers. We empower our customers – farmers, construction crews, and foresters to implement safer and more sustainable solutions, driving increased profitability with less reliance on scarce labor. We believe that focusing on the small stuff, pixel-by-pixel and task-by-task, leads to big gains. 
+
+Blue River Technology aligns with John Deere’s vision to “innovate on behalf of humanity” by quickly identifying and solving high-value, high-uncertainty challenges in AI, machine learning, computer vision, and robotics. BRT acts as a research and development flywheel, building not only new products but also new platforms that reliably create value for both Deere and its customers. From fully autonomous machines to highly precise farming equipment, BRT and Deere are partnering to deliver technical breakthroughs across industries such as agriculture and construction. 
+
+Our people are at the heart of what we do. Through cross-disciplinary collaboration, this mission-driven team is eager to define the new frontier of robotics. We ask hard questions, iterate rapidly, and get our boots in the field to figure it out. We won’t give up until we’ve made a tangible and positive impact on the planet!
+
+Blue River Technology is based in Santa Clara, CA. 
+
+ 
+
+Summary
+
+We are seeking a high-caliber Senior Robotics Software Manager to build, scale, and lead the engineering team responsible for delivering our production perception pipeline – including camera integration, model inference, runtime optimization, deployment, and spatial mapping. In this role, you will balance people leadership, architectural stewardship, and cross-functional execution to deploy intelligent systems reliably at scale. You will define the strategic technical direction for the perception pipeline and internal tooling, navigate architectural trade-offs, champion engineering rigor across test and release, and align with cross-functional leadership to drive predictable roadmap execution.
+
+Beyond technical execution, you will serve as a culture carrier, operationalizing our core values and principles into daily practices while scaling a high-trust, inclusive, and performant team.
+
+Employment Type: Full-Time
+Work Location: Remote in the United States
+Visa sponsorship: Open to visa sponsorship.
+Job Responsibilities
+
+A combination, not necessarily all-inclusive, of the following:
+
+People Leadership & Talent Development
+Build, coach, and retain a high-performing software engineering team through career development paths, regular feedback cycles, and proactive performance management.
+Lead hiring and onboarding to scale perception engineering capabilities while fostering a culture of trust, learning, and inclusivity.
+Technical Leadership 
+Own the design, stability, observability, and evolution of the perception software pipeline. 
+Champion engineering best practices for software development, system design, and code quality.
+Establish data-driven mechanisms to track software stability, enforce rigorous testing and release standards, and systematically prioritize technical debt reduction.
+Drive internal tooling and infrastructure improvements to enable faster experimentation and rapid iteration across the team.
+Cross-Functional Collaboration
+Partner closely with Core Software infrastructure to optimize real-time middleware, data-transport, and image pipelines for performance.
+Collaborate with Systems, Data, CV/ML, QA, Hardware, and downstream planning/actuation teams to allocate capacity and deliver cohesive, mission-critical product milestones.
+Clearly communicate architectural trade-offs and build consensus with cross-functional leadership to deliver on business outcomes.
+Execution & Ownership
+Dive in to unblock teams, resolve complex technical bottlenecks, and accelerate critical decision-making.
+Lead the end-to-end delivery of initiatives from initial design through production deployment.
+Apply a customer-first mindset to ensure solutions drive meaningful impact.
+Required Experience and Skills
+
+Leadership & Operational Execution:
+3+ years of direct people management experience, including talent acquisition, onboarding, career progression, mentorship, and performance management.
+Proven track record of driving efficient delivery using Agile methodologies (Scrum/Kanban) and tools like Jira (or equivalent) for capacity planning and roadmapping across complex cross-functional dependencies.
+Demonstrated ability to operationalize leadership principles and core values into everyday decisions, standards, and team culture.
+Technical Skills:
+6+ years of hands-on software engineering experience in robotics, perception, embedded systems, or autonomous platforms, demonstrating technical depth and judgment of a senior/staff-level engineer.
+Strong programming experience in C++ (14/17/20) for real-time systems, Python for tooling and automation.
+Experience in modern test automation (e.g., simulation, HIL), chained CI/CD pipelines, and robust Git workflows.
+General Skills:
+Strong architectural judgment and problem-solving skills.
+Excellent communication and collaboration abilities.
+Preferred Experience and Skills
+
+Experience with robotics middleware and real-time communication frameworks.
+Hands-on experience combining camera streams with other sensors (such as LiDAR and IMUs) on embedded compute platforms (e.g., NVIDIA Jetson / Orin).
+Experience leveraging simulated environments (e.g., Isaac Sim) and synthetic dataset pipelines for perception validation.
+Exposure to data processing frameworks (e.g., Spark, Airflow, or similar).
+Experience with safety and reliability standards, such as IEC 61508.
+ 
+
+Only individual applicants will be considered. We do not work with unsolicited third-party agencies or proxy interview services. 
+
+At Blue River, your base pay is one part of your total compensation package. For this position, the reasonably expected pay range is between $174,000 – $305,000/year for the level at which this job has been scoped. Your base pay will depend on several factors, including your experience, qualifications, education, location, and skills. This position is also eligible for an annual performance bonus and a competitive benefit package. During the recruitment process, we may identify an alternative role or level to which you are more suited. If your ideal role at Blue River differs from the advertised position, we will provide an updated pay range as soon as possible during the hiring process.
+
+We’re passionate about creating an inclusive workplace that promotes and values diversity. While we have more work to do to advance diversity and inclusion, we’re investing in our programs, including recruiting, mentorship, career development, and learning & development, to ensure they support our Diversity, Equity, and Inclusion goals. We support each employee in living a full life, enabling a thriving career, and accomplishing a meaningful, challenging mission while collaborating with incredible people. We are dedicated to building a diverse and inclusive workplace, so if you’re excited about this role but your experience doesn’t align completely with the job description, we encourage you to apply anyway.
+
+We are an equal-opportunity employer and do not discriminate based on race, religion, color, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, perform essential job functions, and receive other benefits and privileges of employment. Please contact us to request an accommodation.
+
+#LI-AN1
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+

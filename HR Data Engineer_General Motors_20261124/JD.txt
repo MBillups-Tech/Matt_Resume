@@ -1,0 +1,57 @@
+Description
+Team Overview
+Reporting to the People Analytics BI Enablement Leader with the People Analytics organization, the HR Data Engineer along with peers enable the People Analytics business intelligence (BI) strategy. This role collaborates across the BI Enablement team and with partner groups to assemble large datasets, build clear metric definitions, integrate data, certify data products, and scale actionable insights using Databricks technology.
+
+What You’ll Do
+
+Define, communicate, and maintain master data, metadata, data management repositories, logical data models, and data standards.
+Design, build, and maintain scalable, reliable data pipeline architecture.
+Assemble and transform large, complex datasets to meet functional and non-functional business requirements.
+Build and maintain consistent, accurate analytical datasets for business intelligence and data science users.
+Develop industrialized analytical datasets and delivery mechanisms that turn data into actionable insights across workforce, talent acquisition, operational efficiency, and other business performance areas.
+Partner with business stakeholders to resolve data-related technical issues and define requirements for their data infrastructure needs.
+Identify and implement process improvements, including automating manual work, optimizing data delivery, and redesigning infrastructure to improve scalability.
+Enable advanced analytics by making trusted, well-documented data products easier to discover and use.
+
+
+Required Qualifications
+
+2+ years of hands-on experience with big data technologies such as Hadoop, Spark, or Kafka.
+Advanced SQL skills and experience with relational and NoSQL databases, including technologies such as PostgreSQL and Cassandra.
+2+ years of experience with an object-oriented or functional programming language, such as Python, Java, C++, or Scala.
+Experience with data wrangling and preparation tools such as Alteryx, Trifacta, SAS, or Datameer.
+Familiarity with stream-processing systems such as Storm or Spark Streaming.
+Ability to diagnose and solve problems quickly and thoroughly.
+Ability to identify repetitive or manual tasks and automate them.
+Understanding of networking and distributed computing concepts.
+Strong organization and prioritization skills, with the ability to manage multiple tasks in a dynamic environment.
+
+
+Preferred Qualifications
+
+Experience with data pipeline and workflow orchestration tools such as Azkaban, Luigi, or Apache Airflow.
+Experience with AWS cloud services such as EC2, EMR, RDS, or Redshift.
+GM does not provide immigration-related sponsorship for this role. Do not apply for this role if you will need GM immigration sponsorship now or in the future. This includes direct company sponsorship, entry of GM as the immigration employer of record on a government form, and any work authorization requiring a written submission or other immigration support from the company (e.g., H1-B, OPT, STEM OPT, CPT, TN, J-1, etc.)
+
+This role is based remotely, but if the selected candidate lives within a specific mile radius of a GM hub, they will be expected to report to the location three times a week {or other frequency dictated by your manager}.
+
+This job is not eligible for relocation benefits. Any relocation costs would be the responsibility of the selected candidate.
+
+About GM
+Our vision is a world with Zero Crashes, Zero Emissions and Zero Congestion and we embrace the responsibility to lead the change that will make our world better, safer and more equitable for all.
+
+Why Join Us 
+We believe we all must make a choice every day – individually and collectively – to drive meaningful change through our words, our deeds and our culture. Every day, we want every employee to feel they belong to one General Motors team.
+
+Total Rewards | Benefits Overview
+From day one, we're looking out for your well-being–at work and at home–so you can focus on realizing your ambitions. Learn how GM supports a rewarding career that rewards you personally by visiting Total Rewards resources. 
+
+Non-Discrimination and Equal Employment Opportunities (U.S.)
+General Motors is committed to being a workplace that is not only free of unlawful discrimination, but one that genuinely fosters inclusion and belonging. We strongly believe that providing an inclusive workplace creates an environment in which our employees can thrive and develop better products for our customers.
+
+All employment decisions are made on a non-discriminatory basis without regard to sex, race, color, national origin, citizenship status, religion, age, disability, pregnancy or maternity status, sexual orientation, gender identity, status as a veteran or protected veteran, or any other similarly protected status in accordance with federal, state and local laws. 
+
+We encourage interested candidates to review the key responsibilities and qualifications for each role and apply for any positions that match their skills and capabilities. Applicants in the recruitment process may be required, where applicable, to successfully complete a role-related assessment(s) and/or a pre-employment screening prior to beginning employment. To learn more, visit How we Hire.
+
+Accommodations
+General Motors offers opportunities to all job seekers including individuals with disabilities. If you need a reasonable accommodation to assist with your job search or application for employment, email us Careers.Accommodations@GM.com or call us at 1-800-865-7580. In your email, please include a description of the specific accommodation you are requesting as well as the job title and requisition number of the position for which you are applying.

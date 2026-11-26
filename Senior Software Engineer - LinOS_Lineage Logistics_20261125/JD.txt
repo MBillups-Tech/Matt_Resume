@@ -1,0 +1,264 @@
+Senior Software Engineer - LinOS
+Lineage Logistics
+•
+Novi, MI • Remote
+Apply with Indeed
+
+
+
+Job details
+Pay information not provided
+401(k), Health insurance, Paid time off, Dental insurance, Disability insurance
+Full-time
+Remote in Novi, MI
+Full job description
+LinOS is Lineage's most strategic software initiative, transforming warehouse operations through advanced software, data science, robotics, and automation.
+
+LinOS is an intelligent warehouse orchestration platform that uses cutting-edge data science to coordinate warehouse workers, equipment, and automated systems, increasing throughput, reducing costs, and improving operational efficiency. The platform also integrates industry-leading robotics and computer vision technologies to automate processes traditionally performed by humans.
+
+This is software with a direct, measurable impact on the physical world. The systems we build don't just process transactions-they help determine how goods move, how people work, and how automated equipment operates in complex warehouse environments.
+This is a REMOTE role.
+
+The Role
+We're looking for an experienced Senior Backend Software Engineer to help design, build, and evolve the distributed systems that power LinOS.
+
+You'll work on challenging engineering problems at the intersection of distributed computing, real-world operations, optimization, and industrial automation. You'll collaborate with engineers, data scientists, product managers, and operations experts to turn sophisticated algorithms and complex business requirements into reliable, scalable production software.
+
+This is a hands-on engineering role with significant technical ownership. We're looking for someone who enjoys solving difficult problems, understands the tradeoffs behind good software design, and takes pride in building systems that work reliably in the real world.
+
+What You'll Do
+
+Design, develop, and maintain backend services that coordinate warehouse operations, people, equipment, and automated systems.
+Build reliable, scalable distributed systems using asynchronous messaging, event-driven architectures, and service APIs.
+Translate complex operational requirements and data science algorithms into robust production software.
+Develop integrations with robotics, computer vision, warehouse equipment, and other enterprise systems.
+Take ownership of engineering solutions from initial design through implementation, testing, deployment, and production support.
+Collaborate closely with other engineers, data scientists, product managers, and warehouse operations experts.
+Help shape the architecture and technical direction of LinOS as the platform continues to evolve.
+Mentor other engineers through technical discussions, code reviews, and sharing engineering expertise.
+
+
+What We're Looking For
+
+Extensive professional software development experience, including designing, developing, and maintaining complex production software systems.
+Deep understanding of software engineering principles, object-oriented design, data structures, algorithms, and application architecture.
+Strong understanding of backend application development, including service design, APIs, and data persistence.
+Solid understanding of relational databases, data modeling, and SQL.
+Strong commitment to software quality, maintainability, testing, and operational reliability.
+Ability to work independently, take ownership of substantial technical challenges, and collaborate effectively with other engineers.
+Intellectual curiosity, adaptability, and a willingness to learn new technologies and unfamiliar business domains.
+
+
+We hire for engineering ability, not familiarity with a particular technology stack. We're interested in engineers with strong fundamentals, broad experience, a commitment to delivering real value, and a demonstrated ability to learn and solve difficult problems.
+
+Additional Experience We'd Value
+
+Experience with logistics, warehouse management, robotics, industrial automation, or other software that controls real-world processes.
+Experience integrating machine learning, optimization algorithms, or data science models into production applications.
+Experience with event-driven architectures, asynchronous processing, or complex workflow orchestration.
+Experience developing systems where reliability, throughput, and operational performance are especially important.
+
+
+Our Stack
+Our backend systems are built primarily in Java, deployed to Kubernetes, and backed by PostgreSQL.
+
+We use a distributed, service-oriented architecture in which services communicate primarily through asynchronous message queues (currently Apache Pulsar), supplemented by REST APIs.
+
+All our services are instrumented for cross-system observability and monitoring via DataDog.
+
+Our development workflow uses standard tools for a Java shop, Git-based source control and Jira for project management.
+
+Experience with these technologies is valuable, but none is a prerequisite. We expect strong engineers to learn new languages, frameworks, and tools as needed.
+
+Why Join LinOS?
+Solve interesting, difficult problems. Warehouse orchestration combines sophisticated algorithms, distributed systems, complex operational workflows, and the unpredictable realities of the physical world.
+
+See the impact of your work. The software you build directly influences warehouse throughput, operating costs, and the capabilities of automated equipment.
+
+Shape a strategic platform. LinOS is a major investment in Lineage's future. You'll have meaningful opportunities to influence its architecture and technical evolution.
+
+Work with a multidisciplinary team. Collaborate with software engineers, data scientists, automation specialists, and operations experts to tackle challenges that require both technical depth and creative problem-solving.
+
+Build software that matters. Lineage plays an essential role in the global food supply chain. Improving the efficiency and reliability of its operations has an impact far beyond the software itself. Help us change the cost of food world-wide.
+
+#LI-Remote
+
+Why Lineage?
+This is an excellent position to begin your career path within Lineage! Success in this role enables greater responsibilities and promotions! A career at Lineage starts with learning about our business and how each team member plays a part each and every day to satisfy our customers' requirements. Beyond that, you'll help us grow and learn on our journey to be the very best employer in our industry. We'll ask you for your opinion and ensure we do our part to keep you developing and engaged as we grow our business. Working at Lineage is energizing and enjoyable. We value respect and care about our team members.
+
+Lineage is an Equal Employment Opportunity Employer and is committed to compliance with all federal, state, and local laws that prohibit workplace discrimination and unlawful harassment and retaliation. Lineage will not discriminate against any applicant on the basis of race, color, age, national origin, religion, physical or mental disability or any other protected status under federal, state and local law.
+Benefits
+
+Lineage provides safe, stable, reliable work environments, medical, dental, and basic life and disability insurance benefits, 401k retirement plan, paid time off, annual bonus eligibility, and a minimum of 7 holidays throughout the calendar year.
+
+Organic----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: mbillups982@gmail.com
+Phone: +17377101427
+Address: Phoenix, AZ
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Software Engineer - LinOS
+Lineage Logistics
+•
+Novi, MI • Remote
+Apply with Indeed
+
+
+
+Job details
+Pay information not provided
+401(k), Health insurance, Paid time off, Dental insurance, Disability insurance
+Full-time
+Remote in Novi, MI
+Full job description
+LinOS is Lineage's most strategic software initiative, transforming warehouse operations through advanced software, data science, robotics, and automation.
+
+LinOS is an intelligent warehouse orchestration platform that uses cutting-edge data science to coordinate warehouse workers, equipment, and automated systems, increasing throughput, reducing costs, and improving operational efficiency. The platform also integrates industry-leading robotics and computer vision technologies to automate processes traditionally performed by humans.
+
+This is software with a direct, measurable impact on the physical world. The systems we build don't just process transactions-they help determine how goods move, how people work, and how automated equipment operates in complex warehouse environments.
+This is a REMOTE role.
+
+The Role
+We're looking for an experienced Senior Backend Software Engineer to help design, build, and evolve the distributed systems that power LinOS.
+
+You'll work on challenging engineering problems at the intersection of distributed computing, real-world operations, optimization, and industrial automation. You'll collaborate with engineers, data scientists, product managers, and operations experts to turn sophisticated algorithms and complex business requirements into reliable, scalable production software.
+
+This is a hands-on engineering role with significant technical ownership. We're looking for someone who enjoys solving difficult problems, understands the tradeoffs behind good software design, and takes pride in building systems that work reliably in the real world.
+
+What You'll Do
+
+Design, develop, and maintain backend services that coordinate warehouse operations, people, equipment, and automated systems.
+Build reliable, scalable distributed systems using asynchronous messaging, event-driven architectures, and service APIs.
+Translate complex operational requirements and data science algorithms into robust production software.
+Develop integrations with robotics, computer vision, warehouse equipment, and other enterprise systems.
+Take ownership of engineering solutions from initial design through implementation, testing, deployment, and production support.
+Collaborate closely with other engineers, data scientists, product managers, and warehouse operations experts.
+Help shape the architecture and technical direction of LinOS as the platform continues to evolve.
+Mentor other engineers through technical discussions, code reviews, and sharing engineering expertise.
+
+
+What We're Looking For
+
+Extensive professional software development experience, including designing, developing, and maintaining complex production software systems.
+Deep understanding of software engineering principles, object-oriented design, data structures, algorithms, and application architecture.
+Strong understanding of backend application development, including service design, APIs, and data persistence.
+Solid understanding of relational databases, data modeling, and SQL.
+Strong commitment to software quality, maintainability, testing, and operational reliability.
+Ability to work independently, take ownership of substantial technical challenges, and collaborate effectively with other engineers.
+Intellectual curiosity, adaptability, and a willingness to learn new technologies and unfamiliar business domains.
+
+
+We hire for engineering ability, not familiarity with a particular technology stack. We're interested in engineers with strong fundamentals, broad experience, a commitment to delivering real value, and a demonstrated ability to learn and solve difficult problems.
+
+Additional Experience We'd Value
+
+Experience with logistics, warehouse management, robotics, industrial automation, or other software that controls real-world processes.
+Experience integrating machine learning, optimization algorithms, or data science models into production applications.
+Experience with event-driven architectures, asynchronous processing, or complex workflow orchestration.
+Experience developing systems where reliability, throughput, and operational performance are especially important.
+
+
+Our Stack
+Our backend systems are built primarily in Java, deployed to Kubernetes, and backed by PostgreSQL.
+
+We use a distributed, service-oriented architecture in which services communicate primarily through asynchronous message queues (currently Apache Pulsar), supplemented by REST APIs.
+
+All our services are instrumented for cross-system observability and monitoring via DataDog.
+
+Our development workflow uses standard tools for a Java shop, Git-based source control and Jira for project management.
+
+Experience with these technologies is valuable, but none is a prerequisite. We expect strong engineers to learn new languages, frameworks, and tools as needed.
+
+Why Join LinOS?
+Solve interesting, difficult problems. Warehouse orchestration combines sophisticated algorithms, distributed systems, complex operational workflows, and the unpredictable realities of the physical world.
+
+See the impact of your work. The software you build directly influences warehouse throughput, operating costs, and the capabilities of automated equipment.
+
+Shape a strategic platform. LinOS is a major investment in Lineage's future. You'll have meaningful opportunities to influence its architecture and technical evolution.
+
+Work with a multidisciplinary team. Collaborate with software engineers, data scientists, automation specialists, and operations experts to tackle challenges that require both technical depth and creative problem-solving.
+
+Build software that matters. Lineage plays an essential role in the global food supply chain. Improving the efficiency and reliability of its operations has an impact far beyond the software itself. Help us change the cost of food world-wide.
+
+#LI-Remote
+
+Why Lineage?
+This is an excellent position to begin your career path within Lineage! Success in this role enables greater responsibilities and promotions! A career at Lineage starts with learning about our business and how each team member plays a part each and every day to satisfy our customers' requirements. Beyond that, you'll help us grow and learn on our journey to be the very best employer in our industry. We'll ask you for your opinion and ensure we do our part to keep you developing and engaged as we grow our business. Working at Lineage is energizing and enjoyable. We value respect and care about our team members.
+
+Lineage is an Equal Employment Opportunity Employer and is committed to compliance with all federal, state, and local laws that prohibit workplace discrimination and unlawful harassment and retaliation. Lineage will not discriminate against any applicant on the basis of race, color, age, national origin, religion, physical or mental disability or any other protected status under federal, state and local law.
+Benefits
+
+Lineage provides safe, stable, reliable work environments, medical, dental, and basic life and disability insurance benefits, 401k retirement plan, paid time off, annual bonus eligibility, and a minimum of 7 holidays throughout the calendar year.
+
+Organic
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+

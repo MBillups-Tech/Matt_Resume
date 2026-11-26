@@ -1,0 +1,71 @@
+A/AI Machine Learning Engineering Stf - E4
+Lockheed Martin
+•
+Remote
+•
+$108,600 - $280,000 a year
+Apply on company site
+
+
+
+Job details
+$108,600 - $280,000 a year
+Parental leave, Health insurance, 401(k) matching, Paid time off, Vision insurance, Dental insurance, Flexible spending account, Life insurance
+
+Show 2 more
+Full-time
+Remote
+Full job description
+Standard Job Description
+Shape the architecture. Accelerate AI adoption. Build software that scales across missions.
+
+The Lockheed Martin Artificial Intelligence Center (LAIC) is seeking an experienced Level 4 Staff A/AI Machine Learning Engineer to help drive the technical direction of Cognitive Baseline, a team focused on building reusable AI/ML capabilities, scalable software foundations, and modern developer tooling for mission critical applications.
+
+Cognitive Baseline enables engineering teams across Lockheed Martin to discover, integrate, extend, and deploy software and AI capabilities more efficiently.
+
+We’re looking for a technically strong engineer who can see beyond individual implementations to understand system-level architecture, identify design weaknesses, and guide teams toward sustainable solutions. This role requires someone who is equally comfortable designing software architectures, performing deep technical code reviews, mentoring engineers, and collaborating directly with mission teams to solve complex integration challenges.
+
+The ideal candidate brings strong engineering judgment, a passion for software quality, and the ability to balance near-term delivery with long-term maintainability, extensibility, and mission value.
+
+Key Responsibilities Include:
+
+Lead the architecture, design, and development of reusable software frameworks, AI/ML tooling, and enterprise-scale engineering capabilities.
+Establish and reinforce software engineering best practices, including modular design, separation of concerns, dependency inversion, testability, and maintainability.
+Conduct in-depth merge request reviews that evaluate architectural integrity, code readability, abstraction boundaries, design patterns, and long-term sustainability.
+Identify architectural gaps, technical debt, and opportunities to simplify or modernize existing software solutions.
+Drive improvements to software development workflows, CI/CD pipeline, automated testing, and secure software delivery.
+Basic Qualifications
+Bachelor’s degree in Computer Science, Software Engineering, Computer Engineering, or a related technical discipline, or equivalent experience.
+Advanced proficiency in Python, C++, and/or other modern programming languages.
+Demonstrated experience designing and implementing complex software systems.
+Strong understanding of software architecture, SOLID principles, design patterns, and modular development.
+Experience with Git-based development, CI/CD pipelines, pipelines, automated testing, and DevSecOps practices.
+Desired Skills
+Experience architecting AI/ML platforms, MLOps frameworks, or reusable machine learning capabilities.
+Strong C++ or python software architecture expertise, including packaging, dependency management, typing, and testing.
+Experience with PyTorch, TensorFlow, model lifecycle management, or AI/ML deployment.
+Experience with LLMs, agent orchestration, MCP, agentic workflows, or AI-enabled developer tooling.
+Experience with Docker, Kubernetes, Linux, and containerized or air-gapped deployments.
+Experience with GitLab CI/CD, secure software supply chains, and DevSecOps automation.
+Experience refactoring tightly coupled or legacy systems into modular, maintainable architectures.
+Pay Information
+
+GeoZone Definition: GeoZones are geographic groupings created by Lockheed Martin to align compensation ranges with regional labor markets and cost-of-labor differences across the United States. Locations are assigned a Geo Zone based on the primary work location of the role.
+
+Full-time salary range (GEOZONE 1): $150800.00 - $280000.00
+Includes metropolitan areas such as Sunnyvale CA; Pal Alto, CA; New York City metropolitan area; Newark, New Jersey; etc.
+Full-time salary range (GEOZONE 2): $135700.00 - $251900.00
+Includes metropolitan areas such as Denver, CO; King of Prussia, PA; Stratford, CT; Moorestown, NJ; etc.
+Full-time salary range (GEOZONE 3): $120600.00 - $224000.00
+Includes metropolitan areas such as Dallas–Fort Worth, TX; Orlando, FL; Grand Prairie, TX; Marietta, GA; etc.
+Full-time salary range (GEOZONE 4): $108600.00 - $201600.00
+Includes metropolitan areas such as Camden, AR; Lexington, KY; Lufkin, TX; etc.
+At Lockheed Martin, we know mission success starts with taking care of our people. Our Total Rewards program is designed to attract top talent, support your well-being, and help you grow—both professionally and personally.
+
+The salary range for this position is as listed on the requisition. Please note that the salary information listed is a general guideline only.
+Lockheed Martin considers factors such as (but not limited to) scope and responsibilities of the position, candidate's work experience, education/ training, key skills as well as market(work location) and business considerations when extending an offer.
+
+Benefits offered: Medical, Dental, Vision, Flexible work arrangements and schedules (e.g., 4x10), 401(k) match, Paid time off, Holidays, Parental Leave, EAP, Flexible Spending Accounts, Education Assistance, Life Insurance, Short-Term Disability, and Long-Term Disability.
+
+Annual short-term and/or long-term incentive compensation programs may be offered depending on the position. Payments under these annual programs are not guaranteed and can vary from year to year and are tied to a range of performance metrics.
+For (Washington state applicants only) Non-represented full-time employees: accrue at least 10 hours per month of Paid Time Off (PTO) to be used for incidental absences and other reasons; receive at least 90 hours for holidays. Represented full time employees accrue 6.67 hours of Vacation per month; accrue up to 52 hours of sick leave annually; receive at least 96 hours for holidays. PTO, Vacation, sick leave, and holiday hours are prorated based on start date during the calendar year.

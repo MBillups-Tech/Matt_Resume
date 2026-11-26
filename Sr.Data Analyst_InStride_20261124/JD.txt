@@ -1,0 +1,78 @@
+Sr.Data Analyst
+Los Angeles, CA or Remote
+At InStride, people are our purpose. 
+We believe that investing in people is the most powerful way to drive success—for individuals and organizations alike. 
+
+As a public benefit corporation, we partner with leading employers to unlock opportunities for their employees, providing access to top-tier education programs that align with their employees’ career goals and the company’s business goals. 
+
+Our mission goes beyond skill-building; we're here to empower our partners’ employees to advance their careers, elevate their expertise, and achieve meaningful personal and professional growth.
+
+No matter the team you’re on, our dedication to the success of our partners and their employees is what drives us. If you're passionate about making a difference and driving educational and professional advancement, InStride is the place for you. 
+
+To get a better feel for our culture, watch more here.
+
+Candidates must be located in one of the following states to be considered eligible for employment: AZ, CA, CO, CT, DC, DE, FL, GA, IL, IN, KS, LA, MA, MD, MI, MN, MO, NC, NH, NJ, NV, NY, OH, OR, PA, TX, VA, WA, WI.
+
+What we're looking for:
+InStride is seeking experienced Data Analysts to join our growing Data Analytics team. As a Senior Data Analyst reporting to the Director of Data Analytics, you will play a crucial role in transforming data into actionable insights and recommendations that drive strategic decisions across the business. You’ll collaborate closely with stakeholders across the company, providing them with data-driven insights to support growth and operational efficiency. Your work will contribute to building a strong data culture, enabling key business partners to self-serve data through dynamic dashboards and make informed decisions using company-wide metrics.
+
+Skills we’d love to see you show off:
+Data Analysis & Reporting: Analyze complex datasets from Databricks to provide actionable insights across internal teams such as sales, marketing, finance, and product. Build and maintain dynamic Tableau dashboards that empower stakeholders to self-serve and track key metrics.
+Stakeholder Collaboration: Work closely with business partners to understand needs and provide data-driven insights for strategic decisions. Serve as a trusted advisor to business stakeholders, helping them interpret data and apply it effectively.
+Key Performance Indicators (KPIs) and Metrics: Identify, define, and track company-wide key performance indicators (KPIs) aligned with business goals. Continuously monitor and evaluate the effectiveness of KPIs, suggesting new metrics to support organizational consistency.
+Data Validation & Integrity: Ensure accuracy and consistency in data reporting, collaborating with analytics engineers to maintain data quality. Validate data models, ensuring alignment with business requirements and optimization for reporting.
+Data Visualization & Presentation: Create clear and compelling visualizations to communicate complex data to both technical and non-technical stakeholders. Present insights and recommendations in a concise, actionable format to business leaders and teams.
+Documentation & Best Practices: Maintain thorough documentation of data models, analysis processes, dashboards, and business rules. Ensure stakeholders understand key metrics and methodologies through clear and accessible documentation.
+Who you are:
+5+ years of experience in a data analysis or business intelligence role.
+Strong expertise in SQL and visualization tools such as Tableau or Power BI.
+Excellent business acumen with the ability to quickly understand complex business processes and relationships between data.
+Proficient in statistics and comfortable applying statistical methods to analyze data.
+Experience identifying, defining, and tracking KPIs that support strategic business initiatives.
+Exceptional communication and presentation skills, with a knack for making data insights easy to understand for non-technical stakeholders.
+Experience working in a collaborative environment with technical teams and non-technical stakeholders.
+Experience in the edtech or education sector is a plus.
+How you will create impact:
+Enable key business partners to make data-driven decisions by providing timely and insightful analysis.
+Collaborate with engineers to ensure the reporting infrastructure supports efficient and accurate business insights.
+Identify and track key performance indicators (KPIs) that drive business success and continuously evaluate their effectiveness.
+Improve data visualization and storytelling capabilities across the organization, increasing trust in and reliance on data.
+Help drive business performance by uncovering trends and opportunities.
+Compensation
+
+At InStride, final offer amounts are dependent on multiple factors including location, depth of experience, interview performance and equity with other team members.
+
+We encourage you to talk with your recruiter to learn more about the total compensation and benefits available for this role.
+
+Compensation range:
+
+$100,000 - $125,000 USD
+
+We are looking for someone who is not only technically skilled, but also enthusiastic about making a meaningful impact. If this description resonates with you, we're excited about the possibility of having you on our team. As a skills-driven employer, we encourage you to apply if there is a skill-fit, even in the absence of years of experience.
+
+Don’t meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At InStride, we are dedicated to building a diverse, inclusive, and authentic workplace, so if you’re excited about this role, but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this role!
+
+Benefits @ InStride 
+As an organization that champions investing in people, it’s critical we walk the talk. That’s why InStride employees are eligible to enroll in 2,800+ online certificate and degree programs through our Step Forward program. Unlike traditional tuition reimbursement programs, InStride covers your tuition upfront, regardless of your course of study, degree type, or school - eligible to employees starting Day 1. 
+
+This role is also eligible for the following benefits:
+
+401(k) plan with company match 
+Flexible vacation policy
+Paid family leave
+Best-in-class health care benefits
+And more!
+InStride Diversity and Inclusion Statement
+At InStride, we foster a culture of belonging, we support authenticity and intersectionality, and we embrace and appreciate our differences. We do this by building a diverse pipeline of talent and ensuring equitable access to opportunities, information and leadership. We celebrate diversity and are committed to creating an inclusive environment for all employees. 
+
+If you have a disability or special need that requires accommodation, please let your recruiter know. 
+
+Policies & Disclosure 
+InStride recommends employees have their COVID vaccinations. InStride may require employees to have COVID vaccination before entering the office or attending any InStride-related even in the future. However, we do not require this at this time.
+
+ For questions on how we use personal information of job applicants, please refer to InStride's Job Applicant Privacy Policy.
+
+Beware of recruiting scams. InStride does not require a financial transaction or any financial account information to be eligible for employment. If you receive a message purporting to be from InStride asking you for a financial transaction, your financial account information, or any other sensitive information, please do not respond and let us know immediately at recruiting@instride.com.
+
+About InStride
+InStride is a human capital management company that helps organizations retain talent, upskill employees, and fill critical workforce roles through education programs. By breaking down barriers to learning, fostering career growth aligned with organizational goals, and simplifying program management, InStride delivers lasting impact. Partnering with forward-thinking companies like Labcorp, Adidas, and SSM Health, InStride drives meaningful social and business outcomes by providing access to life-changing education. Visit instride.com or follow InStride on LinkedIn for more information and up-to-date news.

@@ -1,0 +1,109 @@
+Staff Software Engineer
+Strive Health
+Compassionate kidney care services.
+
+
+Saved
+Apply
+Permanent
+United States of America
+Fully-remote
+130K to 163K $ a year
+> 5 years
+3 days ago
+Skills we're looking for
+Confidentiality
+Communication skills
+Coaching and mentoring
+Collaboration and teamwork
+Problem-solving skills
++2
+You'll be part of
+United States of America
+577 employees
+Welcome’s take
+With healthcare expenses notoriously high in the US, patients seek quality care that is cost-effective. This a challenge Strive Health is tackling head-on, aiming to provide affordable, value-based care that yields better patient outcomes and lower bills for patients with kidney disease.
+ 
+
+Strive has built an integrated care delivery system for patients diagnosed with chronic or end-stage kidney disease. By employing machine learning algorithms to interpret patient data and predict disease progression, the company delivers targeted interventions that are both cheaper and more effective than current methods of detection and treatment.
+ 
+
+Having raised a high degree of funding, Strive Health's trajectory appears promising. The company is leveraging this capital to scale its team, strengthen end-to-end strategic partnerships, and expand its multi-specialty service offerings. At the same time, Strive is enhancing its value-based care model through advanced technology, including AI-driven tools and analytics, to deliver more personalized, data-informed kidney care solutions.
+
+
+View more
+You'll be working on
+As a Staff Software Engineer in our Product & Technology organization, you will help define and evolve the technical strategy and architecture of Strive’s platform, ensuring engineering decisions align tightly with our clinical and business goals
+This is a senior, hands-on individual contributor role. You will take on the most complex and ambiguous technical problems, designing and building scalable, reliable, and secure software while balancing the need to maintain and scale existing systems with the need to deliver new capabilities for patients, clinicians, and partners
+Your impact will extend well beyond the systems you build yourself. You will help teams make sound architectural decisions, establish reusable patterns and standards, address systemic technical risk, and mentor engineers across multiple teams, raising the bar on design, implementation quality, and cross-functional collaboration
+This role reports to a Senior Engineering Manager or Director of Engineering
+Lead the technical strategy, architecture, and roadmap for one or more critical domains within Strive’s platform, grounded in our business objectives and long-term product vision
+Design and deliver end-to-end solutions for complex, cross-team initiatives, from problem framing and architecture through implementation, rollout, and production operation
+Stay hands-on in the code, writing high-quality, well-tested, observable software, especially where complexity, risk, or ambiguity calls for senior engineering leadership
+Make pragmatic architectural tradeoffs that balance scalability, reliability, security, compliance, delivery speed, cost, and long-term maintainability, while keeping the platform simple for other engineers to build on
+Design and evolve the APIs, services, data models, integrations, and distributed systems that support Strive’s products and healthcare operations
+Partner with Product, Clinical, Data, Security, and Operations leaders to make sure we solve the right problems in the right order, with clear outcomes and measures of success
+Identify systemic technical risks, architectural limitations, performance bottlenecks, and technical debt, and lead the work to address them
+Establish reusable architectural patterns, reference implementations, and engineering standards that help teams build consistently and effectively
+Drive platform-wide improvements in developer experience, reliability, observability, security posture, and performance that measurably improve how engineering delivers value
+Provide technical leadership across teams by facilitating design and architecture reviews, guiding major engineering decisions, and unblocking teams through hands-on help
+Participate in production support and incident response, helping teams find root causes and turn operational lessons into better architecture, tooling, and practices
+Collaborate with Security and Compliance to ensure systems protect sensitive healthcare information and meet regulatory and organizational requirements
+Mentor and coach engineers and tech leads through design discussions, code reviews, pairing, and day-to-day work, helping them strengthen their technical judgment and grow as owners of their domains
+Evaluate emerging technologies, including AI-assisted engineering tools, and identify opportunities to improve developer productivity, software quality, and engineering effectiveness
+Communicate engineering strategy, architectural decisions, risks, and tradeoffs clearly to technical and non-technical audiences, from engineering teams to executives
+Benefits
+Health and Well-Being: We care about your physical well-being, so your insurance starts the day you join Strive.
+Medical, dental & Vision: We offer a variety of medical (HMO, PPO and HDHP) plans through United Healthcare and Kaiser, two dental plans and one comprehensive vision plan.
+Life & Supplemental Insurance: Strivers are provided 100% employer-paid life insurance, short-term disability and long-term disability coverage as of your start date. Additional supplemental insurance, including accident, life and critical illness, are available.
+Flexibility and Time Off: Transformational work takes high performance. We believe Strivers perform better when they are fully charged, so we provide flexibility to support your inner well-being.
+Hybrid-Remote Work: Our hybrid-remote approach ensures team members can work from home while collaborating in person when needed. Strive provides a full technology package and monthly technology reimbursement.
+Vacation Time: Full-time, regularly scheduled Strivers can use vacation time for travel, relaxation or volunteering.
+Sick Time: Life happens, so we provide up to two weeks of paid time off annually for illness, medical care, caregiving responsibilities and other types of emergencies.
+Well-Being Days: Annual Strive-wide well-being days off provide Strivers the opportunity to focus solely on their well-being.
+Paid Holidays: Annual Strive-wide holidays allow all Strivers to disconnect together to reflect and celebrate.
+Paid Leave: Our 12 weeks of paid birth giving leave and four weeks of paid bonding leave start day one. We provide a four-week paid sabbatical after five years to return recharged. In alignment to our mission, we offer a paid living donor leave if any Strivers choose to become a living donor.
+Retirement and Financial Planning: Strive provides a 401k with an employer match, access to the Best-Interest Advice program and our financial planning tools, Empower and SoFi.
+Employee Resource Groups (ERGs): Strive is dedicated to promoting a sense of community and at work. We currently offer Parents/Guardians/Caregivers, Strive Forward (LGBTQIA+), Underrepresented Minorities and Women & Allies ERGs.
+Mental Health Platforms & Employee Assistance Programs: Strivers have access to Headspace Care through Kaiser, Calm Health through both medical carriers and a full-service Employee Assistance Program.
+Family-Forming SUpport: Strive partners with Maven Maternity through UHC. Strivers enrolled in UHC gain access to Maven’s virtual platform designed to support women’s and family health. Maven provides personalized, on-demand guidance for navigating family-building, pregnancy, postpartum and parenting journeys.
+Strivers enrolled in Kaiser will still have access to their Birth-Giving Support Program that includes prenatal care, labor and delivery support, postpartum and newborn care and additional services.
+
+Professional Development: Strive supports growth through annual professional development reimbursements, paid time off for clinical licensure requirements and tuition discounts through CSU Global.
+Employee Discounts: Strive offers Fetch for pet insurance since we know that your pets are part of your family. Strivers also enjoy PerkSpot for product discounts such as gyms and daycares near you, electronics, hotels and more. The best part? PerkSpot is customizable to your interests.
+We're looking for
+High school diploma or GED equivalent
+Internet connectivity with minimum speeds of 3.8 Mbps up / 3.0 Mbps down and latency under 60 ms
+9+ years of combined related education, experience, or certification in software engineering or a closely related field, including substantial experience building and operating production software systems
+Ability to travel and be onsite to meet business needs
+You raise engineering standards through influence, collaboration, and example rather than authority, and you enjoy helping others grow their skills and autonomy
+You are energized by ambiguous, high-impact problems and can turn loosely defined challenges into clear technical approaches, even where process and systems don’t yet exist
+You challenge assumptions constructively while staying open to different perspectives and new information
+You are outcome-driven and curious, using data, experimentation, and feedback loops, as well as thoughtful adoption of AI and other new capabilities, to keep improving the platform and how engineering works
+You are collaborative, low-ego, and motivated by the success of the broader team rather than ownership boundaries
+You are a builder who enjoys designing systems, writing code, solving hard problems, and seeing your work run successfully in production
+You balance short-term needs with long-term architectural investments and keep a clear view of tradeoffs and sequencing over time
+You have strong technical judgment and know that the best solution isn’t always the most complex one, or when a long-term platform investment is worth it versus a simpler approach
+You take ownership of outcomes, including the reliability and maintainability of software long after it ships
+You pair broad knowledge of software engineering with deep expertise in one or more areas, and you use that breadth to weigh the organizational impact of technical choices
+You approach privacy, security, and risk thoughtfully because the systems you build support patients and clinicians, and you handle sensitive information with integrity and discretion
+You are an excellent systems thinker and communicator who explains decisions and the reasoning behind them, and proactively shares risks, tradeoffs, and progress
+Please apply even if you feel you do not meet all qualifications
+Experience influencing engineering strategy beyond a single team, such as setting technical direction or establishing architecture, testing, observability, and operational standards across teams
+Strong experience designing and scaling distributed systems, event-driven architectures, and data pipelines on AWS or a similar cloud platform
+Bachelor’s or advanced degree in Computer Science, Engineering, Mathematics, or a related technical field, or equivalent practical experience
+Experience building software in healthcare, health technology, value-based care, or another highly regulated environment, including systems that handle PHI or other sensitive data
+Experience designing and building scalable, reliable, and maintainable cloud-based applications, services, and integrations
+Strong software engineering fundamentals, including system design, API design, data modeling, testing, debugging, and production operations
+Demonstrated ability to make sound, autonomous technical decisions that align with company and department goals when requirements are incomplete or solutions are ambiguous
+Proven experience as a senior individual contributor (e.g., Senior or Staff Engineer) leading the technical design and delivery of complex initiatives spanning multiple systems, domains, or teams
+Experience leading modernization efforts involving legacy systems, architecture evolution, or significant technical debt
+Demonstrated ability to mentor engineers and influence technical direction without formal management authority
+Familiarity with healthcare interoperability, clinical data, electronic health records, or standards such as FHIR and HL7
+Experience with modern engineering practices such as CI/CD, infrastructure as code, automated testing, observability, and security by design
+Experience troubleshooting complex production systems and participating in incident response and root cause analysis
+Strong written and verbal communication skills, including the ability to explain technical concepts and tradeoffs to technical and non-technical audiences
+Understanding of privacy, security, and compliance requirements (e.g., HIPAA) and experience building them into application and system design
+Experience with relational and non-relational data stores and systems processing significant volumes of operational or clinical data
+Experience with AI-assisted software development tools, and with evaluating new technologies through prototypes, reference implementations, and incremental adoption
+Exposure to kidney care, value-based care, or other complex clinical workflows

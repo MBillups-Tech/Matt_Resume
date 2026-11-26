@@ -1,0 +1,314 @@
+Solutions Engineer
+Johnson City, TN • Remote
+
+1-Click Apply
+
+
+Ntara
+See more jobs at Ntara
+Full-time
+Medical, Retirement, PTO
+Posted 18 hours ago
+Posted today
+Job description
+Position: Solutions Engineer
+
+Location: Full-time remote (United States)
+
+Reports to: Solutions Engineer Manager
+
+About Ntara:
+
+Ntara is a leading PXM (product experience management) consultancy that helps manufacturers and brands modernize their digital ecosystems. With deep expertise in PIM, DAM, and ecommerce strategy, we empower brands and product-focused companies to deliver consistent, trustworthy product experiences across digital channels by simplifying systems, centralizing data, and implementing solutions that drive growth and value.
+
+Why join Ntara? 
+
+Our work spans consulting, technology, and process optimization, giving you the chance to tackle complex challenges that truly impact our clients’ businesses. If you thrive in a collaborative environment, love solving problems, and want to make a measurable difference, Ntara might be the place for you. 
+
+Position summary:
+
+A Solutions Engineer is a client-focused technical expert and subject matter expert who combines deep technical knowledge with the consulting skills needed to deliver exceptional client experiences. This role requires expertise in data analysis, process mapping, systems configuration, and solution architecture with a strong emphasis on Product Information Management (PIM), Digital Asset Management (DAM), and ecommerce platforms.
+
+Solutions Engineers serve as the primary technical liaison to clients across the full engagement lifecycle. Everything from scoping and pre-sales support to solution design, implementation, and long-term technical strategy. They are recognized experts in the technical disciplines Ntara offers, capable of translating complex technical concepts for diverse stakeholders while identifying new opportunities that drive measurable business value. Above all, a successful Solutions Engineer balances technical rigor with the interpersonal skills required to guide clients with confidence and clarity.
+
+
+
+Key responsibilities:
+
+Utilization & Project Status
+
+Maintain personal billable rate at 75%, balancing project contributions with internal and sales assistance.
+Ensure consistent and accurate time logging using tools like Jira and Tempo.
+Communicate with PMs about your workload, status of tasks, and blockers.
+Client Engagement & Solution Architecture
+
+Lead technical discovery sessions to understand client workflows, data structures, and business objectives, with a strong emphasis on PIM strategy and integration.
+Serve as the primary technical consultant and architect for client implementations, particularly around PIM.
+Guide clients in evaluating and selecting appropriate PIM platforms based on business requirements and future scalability.
+Support pre-sales activities by contributing to technical scopes, solution design, and platform evaluations focused on PIM capabilities.
+Gather requirements for system integrations between PIM and other platforms for data ingestion and syndication.
+Delivery & Support
+
+Collaborate with and delegate work to the Business Analyst and Sr. Business Analyst team members to ensure accurate configuration, data modeling, and deployment of PIM systems.
+Collaboration with development team members to ensure efficient and accurate integrations.
+Provide expert-level technical solutions for PIM platforms such as Inriver, Akeneo, and Salsify, helping resolve complex issues and optimize performance.
+Own client specific technical specification and architecture documentation, especially around data mapping, systems integration and facilitate the creation and upkeep with other Ntara departments.
+Stay up to date with emerging technologies in the PIM space and lead internal evaluations to assess applicability and business impact.
+Strategic Planning & Innovation
+
+Contribute to Ntara’s internal standards and methodologies for PIM implementations, helping to streamline future client engagements.
+Inform and help create strategic roadmaps that align PIM system growth with broader enterprise architecture.
+Evaluate and score new platforms or tools for internal and client use.
+Quality & Change Management
+
+Ensure high-quality delivery of PIM-enabled solutions, aligning with client goals, system constraints, and long-term maintainability.
+Drive change management initiatives by articulating the business case for new PIM workflows or enhancements.
+Promote process standardization and documentation around workflows, integrations, and data governance in PIM systems.
+Education:
+
+Bachelor's degree in Information Systems, Computer Science, Business, Digital Media, Engineering, or a related field preferred; equivalent professional experience may be considered in place of a formal degree.
+Advanced coursework or certifications in Business Analysis, Systems Architecture, Data Management, or Agile delivery are a plus.
+General Experience:
+
+PIM experience is a MUST.
+3+ years of experience in a solutions engineering, technical consulting, or systems architecture role, preferably within a digital agency or professional services environment.
+Prior experience in a consulting or agency environment managing multiple concurrent clients and billable work strongly preferred.
+Demonstrated experience leading technical discovery sessions and translating business requirements into scalable solution designs.
+Demonstrated experience leading complex, multi-system implementations and integrations.
+Experience supporting pre-sales activities, including scoping, platform evaluations, and technical proposal development.
+Proficiency with project management and time-tracking tools such as Jira and Tempo.
+Experience drafting technical documentation including architecture specs, field mappings, and integration requirements.
+Proven ability to communicate complex technical concepts clearly to both technical and non-technical stakeholders, including C-suite and client leadership.
+Experience contributing to or establishing internal delivery standards, methodologies, or reusable frameworks is a plus.
+
+
+Technical Skills:
+
+Deep hands-on experience with one or more PIM platforms such as Inriver, Akeneo, Salsify, or Censhare, including configuration, data modeling, and system integration.
+3+ years working on large-scale enterprise digital platforms (PIM, DAM, CMS, ecommerce, or MDM) or other data-heavy applications.
+Knowledge and experience with complex multi-system application architectures.
+Strong understanding of API principles as applied to system integration architecture, including hands-on experience with REST APIs.
+Ability to read and follow logical paths of code (e.g., ASP.NET, Java, JavaScript, VBA) to support integration design, troubleshooting, and collaboration with development teams.
+Experience with data mapping, system integrations, and API-based data ingestion and syndication workflows.
+Proven ability to analyze and model large, complex datasets.
+Familiarity with Azure infrastructure and hosting environments is a plus.
+Experience with Master Data Management (MDM) concepts and implementations is a plus.
+Ecommerce platform experience, including integrations and deployments, is a plus.
+CMS platform experience (e.g., Kentico, Optimizely/Episerver, Sitefinity) is a plus.
+Experience with DAM platforms (e.g., Aprimo, Bynder, Cloudinary, Digizuite) is a plus.
+
+
+Team Culture + Values:
+
+Empathy: We seek to understand.
+Clarity: We cut through the noise.
+Ownership: We own outcomes.
+Ambition: We push boundaries with purpose.
+Integrity: We do what’s right, even when it’s hard.
+Teamwork: We face everything as one team.
+Perks + Benefits:
+
+This is a 100% remote work, U.S. based role. While the position is remote first, there may be occasional travel for key client meetings, project workshops, or team gatherings. These instances are limited and scheduled with plenty of notice. (Working schedule in EST is preferred).
+Competitive salary.
+Collaborative, growth-oriented culture.
+401K with matching contributions.
+Top-notch employee healthcare options.
+Paid vacation days, holidays, and personal days.
+Opportunity to make a measurable impact.
+Great Place to Work® Certified™ Company
+Ntara celebrates diversity and is committed to cultivating an inclusive workplace where employees feel valued, respected, and engaged. We foster a culture in which inclusivity supports innovation, strengthens connections, and reinforces a strong sense of “One Team”. We strive to reflect the diverse experiences, perspectives, and voices of our employees, customers, and the communities we serve.----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Solutions Engineer
+Johnson City, TN • Remote
+
+1-Click Apply
+
+
+Ntara
+See more jobs at Ntara
+Full-time
+Medical, Retirement, PTO
+Posted 18 hours ago
+Posted today
+Job description
+Position: Solutions Engineer
+
+Location: Full-time remote (United States)
+
+Reports to: Solutions Engineer Manager
+
+About Ntara:
+
+Ntara is a leading PXM (product experience management) consultancy that helps manufacturers and brands modernize their digital ecosystems. With deep expertise in PIM, DAM, and ecommerce strategy, we empower brands and product-focused companies to deliver consistent, trustworthy product experiences across digital channels by simplifying systems, centralizing data, and implementing solutions that drive growth and value.
+
+Why join Ntara? 
+
+Our work spans consulting, technology, and process optimization, giving you the chance to tackle complex challenges that truly impact our clients’ businesses. If you thrive in a collaborative environment, love solving problems, and want to make a measurable difference, Ntara might be the place for you. 
+
+Position summary:
+
+A Solutions Engineer is a client-focused technical expert and subject matter expert who combines deep technical knowledge with the consulting skills needed to deliver exceptional client experiences. This role requires expertise in data analysis, process mapping, systems configuration, and solution architecture with a strong emphasis on Product Information Management (PIM), Digital Asset Management (DAM), and ecommerce platforms.
+
+Solutions Engineers serve as the primary technical liaison to clients across the full engagement lifecycle. Everything from scoping and pre-sales support to solution design, implementation, and long-term technical strategy. They are recognized experts in the technical disciplines Ntara offers, capable of translating complex technical concepts for diverse stakeholders while identifying new opportunities that drive measurable business value. Above all, a successful Solutions Engineer balances technical rigor with the interpersonal skills required to guide clients with confidence and clarity.
+
+
+
+Key responsibilities:
+
+Utilization & Project Status
+
+Maintain personal billable rate at 75%, balancing project contributions with internal and sales assistance.
+Ensure consistent and accurate time logging using tools like Jira and Tempo.
+Communicate with PMs about your workload, status of tasks, and blockers.
+Client Engagement & Solution Architecture
+
+Lead technical discovery sessions to understand client workflows, data structures, and business objectives, with a strong emphasis on PIM strategy and integration.
+Serve as the primary technical consultant and architect for client implementations, particularly around PIM.
+Guide clients in evaluating and selecting appropriate PIM platforms based on business requirements and future scalability.
+Support pre-sales activities by contributing to technical scopes, solution design, and platform evaluations focused on PIM capabilities.
+Gather requirements for system integrations between PIM and other platforms for data ingestion and syndication.
+Delivery & Support
+
+Collaborate with and delegate work to the Business Analyst and Sr. Business Analyst team members to ensure accurate configuration, data modeling, and deployment of PIM systems.
+Collaboration with development team members to ensure efficient and accurate integrations.
+Provide expert-level technical solutions for PIM platforms such as Inriver, Akeneo, and Salsify, helping resolve complex issues and optimize performance.
+Own client specific technical specification and architecture documentation, especially around data mapping, systems integration and facilitate the creation and upkeep with other Ntara departments.
+Stay up to date with emerging technologies in the PIM space and lead internal evaluations to assess applicability and business impact.
+Strategic Planning & Innovation
+
+Contribute to Ntara’s internal standards and methodologies for PIM implementations, helping to streamline future client engagements.
+Inform and help create strategic roadmaps that align PIM system growth with broader enterprise architecture.
+Evaluate and score new platforms or tools for internal and client use.
+Quality & Change Management
+
+Ensure high-quality delivery of PIM-enabled solutions, aligning with client goals, system constraints, and long-term maintainability.
+Drive change management initiatives by articulating the business case for new PIM workflows or enhancements.
+Promote process standardization and documentation around workflows, integrations, and data governance in PIM systems.
+Education:
+
+Bachelor's degree in Information Systems, Computer Science, Business, Digital Media, Engineering, or a related field preferred; equivalent professional experience may be considered in place of a formal degree.
+Advanced coursework or certifications in Business Analysis, Systems Architecture, Data Management, or Agile delivery are a plus.
+General Experience:
+
+PIM experience is a MUST.
+3+ years of experience in a solutions engineering, technical consulting, or systems architecture role, preferably within a digital agency or professional services environment.
+Prior experience in a consulting or agency environment managing multiple concurrent clients and billable work strongly preferred.
+Demonstrated experience leading technical discovery sessions and translating business requirements into scalable solution designs.
+Demonstrated experience leading complex, multi-system implementations and integrations.
+Experience supporting pre-sales activities, including scoping, platform evaluations, and technical proposal development.
+Proficiency with project management and time-tracking tools such as Jira and Tempo.
+Experience drafting technical documentation including architecture specs, field mappings, and integration requirements.
+Proven ability to communicate complex technical concepts clearly to both technical and non-technical stakeholders, including C-suite and client leadership.
+Experience contributing to or establishing internal delivery standards, methodologies, or reusable frameworks is a plus.
+
+
+Technical Skills:
+
+Deep hands-on experience with one or more PIM platforms such as Inriver, Akeneo, Salsify, or Censhare, including configuration, data modeling, and system integration.
+3+ years working on large-scale enterprise digital platforms (PIM, DAM, CMS, ecommerce, or MDM) or other data-heavy applications.
+Knowledge and experience with complex multi-system application architectures.
+Strong understanding of API principles as applied to system integration architecture, including hands-on experience with REST APIs.
+Ability to read and follow logical paths of code (e.g., ASP.NET, Java, JavaScript, VBA) to support integration design, troubleshooting, and collaboration with development teams.
+Experience with data mapping, system integrations, and API-based data ingestion and syndication workflows.
+Proven ability to analyze and model large, complex datasets.
+Familiarity with Azure infrastructure and hosting environments is a plus.
+Experience with Master Data Management (MDM) concepts and implementations is a plus.
+Ecommerce platform experience, including integrations and deployments, is a plus.
+CMS platform experience (e.g., Kentico, Optimizely/Episerver, Sitefinity) is a plus.
+Experience with DAM platforms (e.g., Aprimo, Bynder, Cloudinary, Digizuite) is a plus.
+
+
+Team Culture + Values:
+
+Empathy: We seek to understand.
+Clarity: We cut through the noise.
+Ownership: We own outcomes.
+Ambition: We push boundaries with purpose.
+Integrity: We do what’s right, even when it’s hard.
+Teamwork: We face everything as one team.
+Perks + Benefits:
+
+This is a 100% remote work, U.S. based role. While the position is remote first, there may be occasional travel for key client meetings, project workshops, or team gatherings. These instances are limited and scheduled with plenty of notice. (Working schedule in EST is preferred).
+Competitive salary.
+Collaborative, growth-oriented culture.
+401K with matching contributions.
+Top-notch employee healthcare options.
+Paid vacation days, holidays, and personal days.
+Opportunity to make a measurable impact.
+Great Place to Work® Certified™ Company
+Ntara celebrates diversity and is committed to cultivating an inclusive workplace where employees feel valued, respected, and engaged. We foster a culture in which inclusivity supports innovation, strengthens connections, and reinforces a strong sense of “One Team”. We strive to reflect the diverse experiences, perspectives, and voices of our employees, customers, and the communities we serve.
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+

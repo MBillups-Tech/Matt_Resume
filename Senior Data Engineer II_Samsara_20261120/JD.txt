@@ -1,0 +1,116 @@
+Senior Data Engineer II
+United States
+Full-time
+Remote
+Senior Level
+$134K/yr - $203K/yr
+10+ years exp
+94%
+STRONG MATCH
+Experience Level
+98%
+Skill
+100%
+Industry Exp.
+74%
+Samsara is hiring a Senior Data Engineer II for its Business Technology data and AI team. The role builds and operates data pipelines, APIs, scalable data platforms, Spark workflows, and AI-enabled tooling while providing technical leadership and stakeholder collaboration.
+Big Data
+Cloud Computing
+Enterprise Software
+Logistics
+Industrial
+Internet of Things
+SaaS
+Aerospace
+Software
+Business Intelligence
+Cloud Data Services
+Fleet Management
+Satellite Communication
+Growth Opportunities
+No H1B
+Insider Connection @Samsara
+2 email credits available today
+Discover valuable connections within the company who might provide insights and potential referrals.
+Get 3x more responses when you reach out via email instead of LinkedIn.
+Beyond your network
+P
+N
+N
+S
+M
+Pradiep Muthusamy & 4 connections
+From your previous company
+F
+F
+F
+& 2 connections
+Previously@undefined and...
+from your School
+F
+F
+F
+& 2 connections
+@undefined and...
+Find Any Email
+Responsibilities
+Develop and maintain end-to-end data pipelines and backend ingestion workflows, and participate in the build of Samsara's Data Platform to enable advanced automation and analytics
+Work with data from a variety of sources including ERP(Netsuite), CRM(Salesforce), Product, Order Flow, and Support ticket data
+Manage critical data pipelines to enable growth initiatives and advanced analytics
+Facilitate data integration and transformation for moving data between applications, ensuring interoperability with data layers and the data lake
+Develop and improve data architecture, data quality, monitoring, observability, and data availability
+Write data transformations in SQL/Python to generate data products consumed by Analytics, Marketing Operations, and Sales Operations teams
+Design, build, and operate large-scale Spark and PySpark workflows for batch and streaming data processing across Databricks and cloud environments
+Optimize Spark job performance — tuning partitioning, shuffle, caching, and resource allocation for production-grade reliability and efficiency
+Design, build, and manage data APIs in python using frameworks such as FastAPI
+Manage API runtime in AWS ecosystems- Lambda and RDS
+Monitor and optimize API , track observability via tools such as Data Dog or Splunk
+Production Support - participate in on-call rotations and act as technical escalation point of contact for data quality issues , API uptimes etc
+Define and enforce data engineering standards, patterns, and best practices across the team
+Design systems with long-term maintainability in mind: clear contracts, testable components, and thoughtful failure modes
+Collaborate with platform and infrastructure teams to evolve the underlying architecture of Samsara's enterprise data ecosystem
+Build and maintain MCP (Model Context Protocol) servers that expose Samsara's data assets and engineering workflows to AI models and internal tooling
+Collaborate with platform teams to integrate agentic workflows into the data engineering lifecycle
+Evaluate and adopt emerging AI-native tooling for data engineering, staying ahead of the curve on how LLMs and agents can accelerate data work
+Champion, role model, and embed Samsara's cultural principles (Focus on Customer Success, Build for the Long Term, Adopt a Growth Mindset, Be Inclusive, Win as a Team) as we scale globally
+Provide mentorship to junior team members and deliver technical guidance, training, and knowledge-sharing across teams
+Engage directly with internal cross-functional stakeholders to understand their data needs and design scalable solutions
+Lead end-to-end projects as the central point of contact for stakeholders
+Qualification
+Represents the skills you have
+Find out how your skills align with this job's requirements. If anything seems off, you can easily click on the tags to select or unselect skills to reflect your actual expertise.
+
+Python
+SQL
+Apache Spark and PySpark
+Production Data Pipelines
+Data Modeling
+API Development
+Databricks
+Snowflake
+Google BigQuery
+Apache Iceberg
+ETL with Fivetran or dbt
+AWS
+Required
+Bachelor's degree in computer science, data engineering, data science, information technology, or an equivalent engineering program
+10+ years of work experience as a Software Engineer with data focus or as Data Engineer
+8+ years of experience building and maintaining large-scale, production-grade end-to-end data pipelines, including Data Modeling
+5+ years of hands-on Spark / PySpark in a production environment, including job optimization and performance tuning
+3+ years of hands-on experience developing and managing APIs, preferably in python
+Strong programming capabilities in Python and SQL, combined with cloud data warehouse/lakehouse experience (e.g., Snowflake, Google BigQuery, Databricks, or Apache Iceberg)
+Exposure to ETL tools such as Fivetran, DBT, or equivalent
+Python-based API frameworks , API management tools
+MySQL, AWS RDS/Aurora, PostgreSQL, Oracle, MS SQL Server, or equivalent
+AWS, Azure, and/or GCP
+Preferred
+Designing and governing a centralized semantic layer for reliable AI and analytics
+Logging and monitoring experience: Splunk, DataDog, AWS CloudWatch, or equivalent
+AWS Serverless: API Gateway, Lambda, S3, SNS, SQS, SecretsManager
+Benefits
+Initial RSU grant with no vesting cliff, and ongoing refresh opportunities tied to performance, subject to plan terms and conditions
+Performance-based bonus/variable pay
+A flexible, employee-led remote model
+A professional development stipend
+Comprehensive health plans
+Parental leave plans

@@ -1,0 +1,158 @@
+Senior Cloud DevOps Engineer
+Saint Louis, MO • Remote
+Apply
+
+
+Strategic Staffing Solutions
+ • 
+Professional, Scientific, and Technical Services
+ • 
+201 - 500 employees
+Learn more about Strategic Staffing Solutions
+$126K - $162K/yr
+
+Estimated pay
+Full-time
+Posted 14 hours ago
+Posted today
+Job description
+Job Description STRATEGIC STAFFING SOLUTIONS (S3) HAS AN OPENING. Senior Cloud DevOps Engineer St. Louis, MO (Remote in CST) W2 Contract role Position Overview We are seeking a Senior Cloud DevOps Engineer to design, build, automate, and continuously improve cloud infrastructure and DevOps capabilities within a Microsoft Azure environment.
+
+This is a hands-on technical SME role responsible for advancing cloud infrastructure, CI/CD automation, deployment processes, and operational reliability. The successful candidate will bring strong technical expertise, take ownership of solutions, and help establish and improve processes and standards in a growing organization. Key Responsibilities Design, implement, manage, and optimize cloud infrastructure and services within Microsoft Azure.
+
+Develop, maintain, and continuously improve CI/CD pipelines and automated deployment processes. Engineer and automate application build, testing, release, and deployment workflows using Azure DevOps, GitHub Actions, or similar platforms. Implement Infrastructure as Code (IaC) using Terraform, Bicep, ARM templates, or comparable technologies.
+
+Manage cloud resources, including compute, storage, networking, identity, and security configurations. Support containerization and orchestration technologies, including Docker and Kubernetes/AKS. Establish cloud infrastructure standards, automation practices, documentation, and operational procedures.
+
+Implement monitoring, logging, alerting, and performance optimization solutions. Troubleshoot complex infrastructure, deployment, and production issues. Advance cloud security, access management, vulnerability remediation, and DevSecOps practices.
+
+Requirements 5+ years of progressive experience in Cloud Engineering, DevOps, Infrastructure Engineering, or a related technical discipline. Strong hands-on experience designing, implementing, and supporting Microsoft Azure environments. Demonstrated expertise developing and managing CI/CD pipelines.
+
+Experience with Azure DevOps and/or GitHub Actions. Strong Infrastructure as Code experience, particularly Terraform or Bicep. Proficiency in scripting and automation using PowerShell, Bash, or Python.
+
+Experience with Docker, Kubernetes, and Azure Kubernetes Service (AKS). Knowledge of cloud networking, security, identity management, and access controls. Experience with cloud monitoring, logging, troubleshooting, and production support.
+
+Strong understanding of Git, source control, branching strategies, and release management. Ability to balance technical engineering, operational support, and continuous improvement. Exceptional verbal and written communication skills, with the ability to engage effectively across all levels of an organization.
+
+Preferred Qualifications Microsoft Azure certifications such as AZ-104, AZ-400, or AZ-305. Experience with GitOps, Helm, Ansible, or similar technologies. Experience with cloud migrations, modernization, and optimization.
+
+Familiarity with DevSecOps practices and cloud security standards. Experience supporting distributed or international teams. *Beware of scams.
+
+S3 never asks for money during its onboarding process----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Cloud DevOps Engineer
+Saint Louis, MO • Remote
+Apply
+
+
+Strategic Staffing Solutions
+ • 
+Professional, Scientific, and Technical Services
+ • 
+201 - 500 employees
+Learn more about Strategic Staffing Solutions
+$126K - $162K/yr
+
+Estimated pay
+Full-time
+Posted 14 hours ago
+Posted today
+Job description
+Job Description STRATEGIC STAFFING SOLUTIONS (S3) HAS AN OPENING. Senior Cloud DevOps Engineer St. Louis, MO (Remote in CST) W2 Contract role Position Overview We are seeking a Senior Cloud DevOps Engineer to design, build, automate, and continuously improve cloud infrastructure and DevOps capabilities within a Microsoft Azure environment.
+
+This is a hands-on technical SME role responsible for advancing cloud infrastructure, CI/CD automation, deployment processes, and operational reliability. The successful candidate will bring strong technical expertise, take ownership of solutions, and help establish and improve processes and standards in a growing organization. Key Responsibilities Design, implement, manage, and optimize cloud infrastructure and services within Microsoft Azure.
+
+Develop, maintain, and continuously improve CI/CD pipelines and automated deployment processes. Engineer and automate application build, testing, release, and deployment workflows using Azure DevOps, GitHub Actions, or similar platforms. Implement Infrastructure as Code (IaC) using Terraform, Bicep, ARM templates, or comparable technologies.
+
+Manage cloud resources, including compute, storage, networking, identity, and security configurations. Support containerization and orchestration technologies, including Docker and Kubernetes/AKS. Establish cloud infrastructure standards, automation practices, documentation, and operational procedures.
+
+Implement monitoring, logging, alerting, and performance optimization solutions. Troubleshoot complex infrastructure, deployment, and production issues. Advance cloud security, access management, vulnerability remediation, and DevSecOps practices.
+
+Requirements 5+ years of progressive experience in Cloud Engineering, DevOps, Infrastructure Engineering, or a related technical discipline. Strong hands-on experience designing, implementing, and supporting Microsoft Azure environments. Demonstrated expertise developing and managing CI/CD pipelines.
+
+Experience with Azure DevOps and/or GitHub Actions. Strong Infrastructure as Code experience, particularly Terraform or Bicep. Proficiency in scripting and automation using PowerShell, Bash, or Python.
+
+Experience with Docker, Kubernetes, and Azure Kubernetes Service (AKS). Knowledge of cloud networking, security, identity management, and access controls. Experience with cloud monitoring, logging, troubleshooting, and production support.
+
+Strong understanding of Git, source control, branching strategies, and release management. Ability to balance technical engineering, operational support, and continuous improvement. Exceptional verbal and written communication skills, with the ability to engage effectively across all levels of an organization.
+
+Preferred Qualifications Microsoft Azure certifications such as AZ-104, AZ-400, or AZ-305. Experience with GitOps, Helm, Ansible, or similar technologies. Experience with cloud migrations, modernization, and optimization.
+
+Familiarity with DevSecOps practices and cloud security standards. Experience supporting distributed or international teams. *Beware of scams.
+
+S3 never asks for money during its onboarding process
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+

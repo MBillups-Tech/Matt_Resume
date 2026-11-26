@@ -1,0 +1,142 @@
+
+Data Migration Presales Solution Architect
+Tampa, FL • Remote
+Apply
+
+
+Accenture
+ • 
+Technology, Communication and Media
+ • 
+10,000+ employees
+Learn more about Accenture
+$94K - $266K/yr
+Full-time
+Medical, Dental, Vision, Life, Retirement, PTO
+Posted 11 hours ago
+Posted today
+Job description
+Data Migration Presales Solution Architect, L7
+
+Location: Remote
+
+
+We Are
+
+Accenture is a leading solutions and services company that helps the world's leading enterprises reinvent by building their digital core and unleashing the power of AI to create value at speed across the enterprise, bringing together the talent of our approximately 800,000 people, our proprietary assets and platforms, and deep ecosystem relationships. Our strategy is to be the reinvention partner of choice for our clients and to be the most client-focused, AI-enabled, great place to work in the world. Through our Reinvention Services we bring together our capabilities across strategy, consulting, technology, operations, Song and Industry X with our deep industry expertise to create and deliver solutions and services for our clients. Our purpose is to deliver on the promise of technology and human ingenuity, and we measure our success by the 360 value we create for all our stakeholders.Visit us atwww.accenture.com.
+
+There is never a typical day at Accenture, but that's why we love it here! This is an extraordinary chance to work in a digitally driven, innovation-led environment where you can help clients in their own reinvention journey. As you build a rewarding career at Accenture, you'll have the opportunity to work with leading-edge technologies and take on some of the coolest projects you can imagine.
+
+Accenture's Data & AI practice empowers global enterprises to modernize data foundations, scale generative and agentic AI, and achieve measurable business reinvention. Its end-to-end capabilities span data platform modernization, cloud migration of legacy data estates, development of cutting-edge AI and Gen AI solutions, and production support of AI & Data applications.
+
+
+You Are
+
+As a Data Migration Presales Solution Architect, you will lead the end-to-end solution blueprint and roadmap, acting as the bridge between client vision and technology execution. You will be instrumental in understanding business problems and translating them into technology solutions while having stakeholder alignment throughout the deal lifecycle. In this role, you'll gain experience in designing Data migration and modernization solutions from on-prem to cloud, working across global delivery and sales teams. Some Managed Services exposure may also present itself in designing Data & AI application maintenance and support solutions as well. You will work cross cloud, cross industry, and cross geography gaining depth and breadth of exposure while deepening your expertise in emerging technologies like Databricks, Snowflake, GenAI, Agents - preparing you for the future.
+
+The Work
+
+Understand RFP/RFIs and translate the business needs into technical architecture (data engineering, data visualization, AI, Gen AI).
+Define end-to-end application architectures diagrams (data ingestion to data consumption to AI/ML).
+Define Migration approach for each solution component (Storage objects, ETL Jobs, Orchestration, Reports) and define data migration patterns for estimation purposes.
+Align technology components (e.g. Snowflake, Databricks, Power BI, PySpark, Azure ML, Azure Foundry, GCP BigQuery, AWS Glue, Informatica, Talend, etc.) with business use cases.
+Prepare detailed ADM effort estimates and get them validated with AI & Data capability SMEs.
+Ensure solution design meets desired service level metrics and key performance indicators.
+Develop credible AI first automation solutions working with the SMEs
+Design optimal staffing models based on onshore/offshore/nearshore mix and pyramid structure.
+Build solution plan power point decks for use in sales and delivery alignment.
+Engage in solution and delivery reviews with leadership across geographies.
+Act as the strategic link between sales and delivery teams.
+Contribute to client-facing proposals, SOWs, and contracting documents.
+Present and defend your solution in internal and external forums.
+Seamlessly transition the solution to the delivery team post-deal closure.
+Exceptional stakeholder management and communication skills.
+Experience working in cross-functional and global environments.
+Travel may be required for this role. The amount of travel will vary from 10% to 25% depending on business need and client requirements.
+
+Here's what you need
+
+Minimum 10 years of experience in Data Engineering or Business Intelligence in AI & Data delivery or Presales
+Minimum 7 years of experience with cloud eco-systems - Azure/AWS/Google experience in delivery or Presales
+Minimum 2 years of GenAI & Agentic AI delivery or Presales
+Minimum of 1 years of experience in AI-led delivery, working in a cross-functional and global environment managing multiple stakeholders
+Bachelor's degree or equivalent (minimum 10 years) work experience. (If Associate's Degree, must have minimum 6 years work experience).
+Bonus points if you have
+
+Deep industry exposure across Financial Services, Products - Retail, Life Science, Telecom, or Energy industries
+Certification in Cloud skills (AWS/Azure/GCP) or Ecosystem partner tools (Snowflake, Databricks, Fabric etc.)
+External client-facing consulting experience
+Good PowerPoint skills for leadership and client storytelling
+
+Compensation at Accenture varies depending on a wide array of factors, which may include but are not limited to the specific office location, role, skill set, and level of experience. As required by local law, Accenture provides a reasonable range of compensation for roles that may be hired as set forth below.
+We anticipate this job posting will be posted until 01/01/2027.
+Accenture offers a market competitive suite of benefits including medical, dental, vision, life, and long-term disability coverage, a 401(k) plan, bonus opportunities, paid holidays, and paid time off. See more information on our benefits here:
+
+U.S. Employee Benefits | Accenture
+
+
+Role Location Annual Salary Range
+California $94,400 to $266,300
+Colorado $94,400 to $230,000
+Connecticut $94,400 to $230,000
+District of Columbia $100,500 to $245,000
+Illinois $87,400 to $230,000
+Maine $80,400 to $196,000
+Maryland $94,400 to $230,000
+Massachusetts $94,400 to $245,000
+Minnesota $94,400 to $230,000
+New York $87,400 to $266,300
+New Jersey $100,500 to $266,300
+Ohio $87,400 to $213,000
+Virginia $87,400 to $245,000
+Washington $100,500 to $245,000
+
+About Accenture
+
+Accenture is a leading global professional services company that helps the world's leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services-creating tangible value at speed and scale. We are a talent- and innovation-led company with approximately 791,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world's leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology and leadership in cloud, data and AI with unmatched industry experience, functional expertise and global delivery capability. Our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Song, together with our culture of shared success and commitment to creating 360 value, enable us to help our clients reinvent and build trusted, lasting relationships. We measure our success by the 360 value we create for our clients, each other, our shareholders, partners and communities.
+Visit us atwww.accenture.com
+
+What We Believe
+
+We have an unwavering commitment to diversity with the aim that every one of our people has a full sense of belonging within our organization. As a business imperative, every person at Accenture has the responsibility to create and sustain an inclusive environment.
+
+Inclusion and diversity are fundamental to our culture and core values. Our rich diversity makes us more innovative and more creative, which helps us better serve our clients and our communities.Read more here
+
+Requesting An Accommodation
+
+Accenture is committed to providing equal employment opportunities for persons with disabilities or religious observances, including reasonable accommodation when needed. If you are hired by Accenture and require accommodation to perform the essential functions of your role, you will be asked to participate in our reasonable accommodation process. Accommodations made to facilitate the recruiting process are not a guarantee of future or continued accommodations once hired.
+
+If you would like to be considered for employment opportunities with Accenture and have accommodation needs such as for a disability or religious observance, please call us toll free at 1 (877) 889-9009 or send us anemailor speak with your recruiter.
+
+Equal Employment Opportunity Statement
+
+We believe that no one should be discriminated against because of their differences.All employment decisions shall be made without regard to age, race, creed, color, religion, sex, national origin, ancestry, disability status, military veteran status, sexual orientation, gender identity or expression, genetic information, marital status, citizenship status or any other basis as protected by applicable law.Our rich diversity makes us more innovative, more competitive, and more creative, which helps us better serve our clients and our communities.
+
+For details, view a copy of the Accenture Equal Opportunity Statement
+
+Accenture is an EEO and Affirmative Action Employer of Veterans/Individuals with Disabilities.
+
+Accenture is committed to providing veteran employment opportunities to our service men and women.
+
+Other Employment Statements
+
+Applicants for employment in the US must have work authorization that does not now or in the future require sponsorship of a visa for employment authorization in the United States.
+
+Candidates who are currently employed by a client of Accenture or an affiliated Accenture business may not be eligible for consideration.
+
+Job candidates will not be obligated to disclose sealed or expunged records of conviction or arrest as part of the hiring process. Further, at Accenture a criminal conviction history is not an absolute bar to employment.
+
+The Company will not discharge or in any other manner discriminate against employees or applicants because they have inquired about, discussed, or disclosed their own pay or the pay of another employee or applicant. Additionally, employees who have access to the compensation information of other employees or applicants as a part of their essential job functions cannot disclose the pay of other employees or applicants to individuals who do not otherwise have access to compensation information, unless the disclosure is (a) in response to a formal complaint or charge, (b) in furtherance of an investigation, proceeding, hearing, or action, including an investigation conducted by the employer, or (c) consistent with the Company's legal duty to furnish information.
+
+California requires additional notifications for applicants and employees. If you are a California resident, live in or plan to work from Los Angeles County upon being hired for this position, pleaseclick herefor additional important information.
+
+Please read Accenture'sRecruiting and Hiring Statementfor more information on how we process your data during the Recruiting and Hiring process.----------------------------------------------
+This is a guide to generate Coverletter.
+tailor job description and my resume to make a cover letter. use power verbs and give non ai generated feeling and add conjunction and gigs to sound natural.
+Write cover letter in this style:
+- Paragraph 1. should state the problem the company is facing (in one or two sentences)?
+- Paragraph 2. should describe the solution you offer and how you meet their need (one or two sentences). Again, keep it to a sentence or two.
+- Paragraph 3. EXPLANATION: should explain your relevant experience that supports your claim (in three to four brief sentences). Keep it short.
+- Paragraph 4. CALL TO ACTION: should end with a call to action, such as suggesting next steps like 'I would love to...'. 
+
+

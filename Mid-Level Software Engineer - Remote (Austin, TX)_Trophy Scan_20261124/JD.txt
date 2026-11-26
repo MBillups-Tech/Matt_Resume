@@ -1,0 +1,73 @@
+Mid-Level Software Engineer - Remote (Austin, TX)
+Austin, TX • Remote
+Apply
+
+
+Trophy Scan
+See more jobs at Trophy Scan
+$110K - $130K/yr
+Full-time
+Medical, Retirement
+Posted 7 hours ago
+Posted today
+Job description
+About TrophyScan
+TrophyScan is a new platform built for outdoor enthusiasts to showcase their achievements, compete in virtual competitions, and preserve 3D-scanned replicas of their greatest trophies. Think Strava for hunting. Using AI and advanced computer vision, our app captures precise measurements of animals, racks, and other trophies, creating a digital 3D twin and powering a data-driven leaderboard that recognizes real skill and accomplishment in the field.
+
+We’re a small, close-knit team that ships every week. We work remote, meet up in person a couple of times a month, and have a good time building things nobody’s built before.
+
+The Role
+You’ll work directly with our Head of Engineering. You’ll own meaningful parts of the product (Flutter mobile app, React web apps, Python API, or the C++ 3D and scoring pipeline) and ship production-ready work with high autonomy and code review. You’ll expand across more of the stack, including AWS infrastructure, and help shape how we build. You’ll also partner with our product team (who build with AI agents) and turn their work into reliable, tested systems. As the team grows, you’ll help mentor junior engineers.
+
+What You Bring
+A degree in computer science, math, physics, engineering, or a related field, or equivalent experience
+Strong hands-on experience with several of the following: Flutter, Dart, React, TypeScript, Python, FastAPI, C++, PostgreSQL, Firebase, AWS (EC2, S3, SQS), Linux, Terraform, Packer, CI/CD
+Solid fundamentals in data structures, algorithms, object-oriented programming, and networking
+Proven experience with testing, error handling, error reporting, and production reliability
+Strong instincts for readable, maintainable, and well-structured code
+Multiple things you’ve shipped (ideally in production)
+Experience with AI coding tools and the judgment to review, correct, and own what they produce
+Solid understanding of Git and collaborative development practices
+Ability to stay effective and keep moving when the path isn’t obvious
+Nice to Have
+Hunting or fishing enthusiast
+Mobile app development, including shipping to the App Store and Google Play
+Enthusiasm for math, physics, or engineering
+Experience with 3D graphics or computer vision
+Hands-on ML experience: segmentation, keypoints, object detection
+Experience mentoring or reviewing junior engineers
+What You’ll Work With
+You’ll work across the full stack, from mobile and web to APIs, 3D and computer vision, and cloud infrastructure, and help design, build, and maintain a production system end to end.
+
+How You’ll Grow
+First week: get set up and ship your first meaningful change
+First 90 days: take clear ownership of one or more areas of the stack
+After that: expand scope, influence architecture, and help raise the bar for the team
+Location
+Remote within Texas, on Central Time. The Austin area is preferred. The team meets in person in the Austin area 1–2 times a month.
+
+Compensation and Benefits
+Base salary: $110,000–$130,000
+Health insurance
+401(k)
+Flexible time off
+Annual bonus eligible
+Top-of-the-line MacBook and AI tools provided
+Interview Process
+30-minute intro call
+Take-home project, time-boxed to about 2–3 hours (judicious use of AI tools is OK)
+Technical deep dive with our Head of Engineering, where you walk us through your take-home
+Meet the team
+Offer
+How to Apply
+Send your resume along with your answers to the questions below. Short and direct is fine.
+
+Where are you located, and can you meet in person in the Austin area 1–2 times a month?
+What parts of our tech stack are you most comfortable with right now, and roughly how much experience do you have with them?
+Tell us about a project where you used AI coding tools. What parts did AI generate, and what did you have to fix or take ownership of before shipping?
+Links to your GitHub, portfolio, or something you’ve shipped
+Do you hunt or fish?
+Did AI write your resume or help with these answers?
+Work Authorization
+
+Applicants must be authorized to work in the United States. TrophyScan is unable to provide employment visa sponsorship now or in the future.

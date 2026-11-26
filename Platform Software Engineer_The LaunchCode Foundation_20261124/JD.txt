@@ -1,0 +1,71 @@
+Platform Software Engineer
+Location
+Remote - United States
+Base Pay
+$30.00 - $48.00 / Hour
+Employee Type
+Full Time - Hourly
+Minimum Experience
+3 Years
+Description
+Position Type: Contract-to-hire
+Years of Experience Required: 3-4+ years of software development or related engineering experience.
+
+
+Please note: This is not a direct LaunchCode position. LaunchCode is partnering with an established organization to help fill this opportunity. As a nonprofit, LaunchCode reinvests proceeds from our recruiting partnerships into educational programs that create pathways into technology careers. By helping connect talented professionals with great opportunities, you're also helping support the next generation of tech talent. The organization's name will be shared during the interview process.
+
+
+
+Our company partner is seeking a Software Engineer to join their DevOps organization and help build the tools, automation, and platform capabilities that support modern software delivery.
+
+
+
+This role is targeted toward a mid-level software engineer with established software development skills and hands-on exposure to DevOps, cloud, or platform engineering practices. You will design and develop internal tools, automation, integrations, and platform services that improve developer productivity, streamline software delivery, and enhance platform reliability.
+
+
+
+Working with application, infrastructure, database, and security teams, you will help build scalable solutions that support the full software development lifecycle. The ideal candidate has experience developing applications, APIs, or automation solutions using modern software engineering practices and has worked with technologies such as CI/CD pipelines, cloud platforms, containerization, infrastructure automation, or Kubernetes in a development environment.
+
+
+
+While the primary focus of this role is software engineering, successful candidates will bring an understanding of how modern applications are built, deployed, and operated. This position provides an opportunity to further develop platform engineering expertise while building software solutions that enable efficient, reliable, and scalable software delivery across the organization.
+
+
+
+Responsibilities
+
+Design and build automation solutions that improve software delivery and operational efficiency.
+Develop internal tools, integrations, and self-service capabilities for engineering teams.
+Build and enhance CI/CD pipelines and deployment processes.
+Automate repetitive operational tasks using scripting and software engineering best practices.
+Support applications running in cloud and containerized environments.
+Collaborate with Development and DevOps teams to improve deployment reliability and developer experience.
+Participate in troubleshooting, root cause analysis, and continuous improvement initiatives.
+Contribute to platform modernization, Infrastructure as Code, and cloud adoption efforts.
+
+
+Qualifications
+
+3-4 years of software development or related engineering experience.
+Experience with one or more of the following:
+Java / Spring Boot
+Python
+Node.js
+React
+Experience working with REST APIs and relational databases.
+Understanding of SDLC and Agile development methodologies.
+Experience with Git, source control best practices, and CI/CD pipelines.
+Experience with scripting and automation using Python, PowerShell, and Groovy
+Exposure to cloud platforms (AWS preferred), Docker, and Kubernetes.
+Strong troubleshooting, problem-solving, and collaboration skills.
+
+
+Preferred Skills:
+
+CloudFormation, Ansible, or helm
+Jenkins or other CI/CD platforms
+Kubernetes experience
+Monitoring and observability tools such as Grafana, Prometheus
+
+
+#LI-REMOTE

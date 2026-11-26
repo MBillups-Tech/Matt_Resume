@@ -1,0 +1,63 @@
+Data Engineer (Databricks & AWS)
+Remote
+We are looking for a Data Engineer who wants to utilize their expertise in modern data platforms, microservices architectures, application programming interfaces, data pipeline development/support and analytical reporting skills by joining our Data Services team. This role is responsible for gathering and analyzing data from several internal and external sources, designing a cloud-focused data platform for analytics and business intelligence, reliably providing data to our analysts. 
+
+
+
+
+Location:  LATAM, 100% Remote. Working hours are based on US Central Time. 
+
+
+
+About Us:
+
+Abstra is a fast-growing, Nearshore Tech Talent services company, providing top Latin American tech talent to U.S. companies and beyond. Founded by U.S.-bred engineers with over 15 years of experience, Abstra specializes in sourcing skilled professionals across a wide range of technologies to meet our clients’ needs, driving innovation and efficiency.
+
+
+
+
+Key Responsabilities: 
+
+Develop & Maintain Scalable Data Pipelines: Build, optimize, and maintain ETL/ELT pipelines using Databricks, Apache Spark, and Delta Lake. 
+Optimize Data Processing: Implement performance tuning techniques to improve Spark-based workloads. 
+Cloud Data Engineering: Work with AWS services (S3, ECS, Lambda, Glue, etc.) to design and implement robust data architectures. 
+Real-time & Streaming Data: Develop streaming solutions using Kafka and Databricks Structured Streaming. 
+Data Quality & Governance: Implement data validation, observability, and governance best practices using Unity Catalog or other tools. 
+Cross-functional Collaboration: Partner with analysts, data scientists, and application engineers to ensure data meets business needs. 
+Automation & CI/CD: Implement infrastructure-as-code (IaC) and CI/CD best practices for data pipelines using tools like Terraform, and GitHub Actions. 
+ 
+
+Qualifications:  
+
+Bachelor’s degree in computer science, data science or related technical field, or equivalent practical experience 
+2-4 years of experience in data engineering, with a focus on cloud-based platforms. 
+Strong hands-on experience with Databricks (including Spark, Delta Lake, and MLflow). 
+Experience building and maintaining AWS based data pipelines: currently utilizing AWS Lambda, Docker / ECS, MSK, Airflow, Databricks, Unity Catalog. 
+Development experience utilizing one or more of the following: Git ecosystem (GitHub, GitLab, etc.),Python and Kafka and the Kafka Connect ecosystem (Schema Registry,Avro, etc.) 
+Familiarity with CI/CD for data pipelines and infrastructure as code (GitHub Actions, Terraform) 
+Strong SQL skills for data transformation and performance tuning. 
+Understanding of data security and governance best practices. 
+Enthusiasm for working directly with customer teams (Business units and internal IT) 
+
+
+Preferred Qualifications: 
+
+Proven experience with relational and NoSQL databases (e.g. Postgres, Microsoft SQL Server, MongoDB, etc.) 
+Familiarity with data lakehouse architectures and optimization strategies. 
+Familiarity with API architectures such as FastAPI, AWS API Gateways, and OpenAPI Specifications 
+Familiarity with data visualization techniques using tools such as Databricks Dashboards, Grafana, PowerBI, and Excel. 
+
+
+
+What We Offer:
+
+Competitive compensation paid in USD.
+20 days of paid time off (PTO) per year.
+Opportunities for professional growth and career development.
+Company-provided equipment.
+A collaborative, inclusive, and multicultural work environment.
+The opportunity to contribute to meaningful projects alongside a talented and supportive team.
+
+
+Pre-Employment Verification
+As part of our standard onboarding process, candidates who successfully complete the interview process and accept an employment offer will be required to complete an employment verification check, and background check. This process will confirm job titles and dates of employment with two previous employers and is a standard requirement for all new employees joining the company.

@@ -1,0 +1,174 @@
+
+AI Staff SW Systems Engineer
+Extreme Networks
+•
+Seattle, WA • Remote
+•
+$18,000 - $200,000 a year
+Update resume to apply
+
+
+
+Job details
+$18,000 - $200,000 a year
+Tuition reimbursement, Employee stock purchase plan, Health insurance, 401(k) matching, Paid time off, Vision insurance, Dental insurance, Flexible spending account
+
+Show 5 more
+Full-time
+Remote in Seattle, WA
+Full job description
+Extreme Networks, Inc. (EXTR) is a leader in AI-powered cloud networking, focused on delivering simple and secure solutions that help businesses address challenges and enable connections among devices, applications, and users. We push the boundaries of technology, leveraging the powers of artificial intelligence, analytics, and automation. Tens of thousands of customers globally trust our AI-powered cloud networking solutions and industry-leading support to enable businesses to drive value, foster innovation, and overcome extreme challenges.
+
+
+Inclusion is one of our core values and in our DNA. We are committed to fostering an inclusive workplace that embraces our differences and creates an atmosphere where all our employees thrive because of their differences, not in spite of them.
+
+
+Become part of Something big with Extreme! As a global networking leader, learn why there’s no better time to join the Extreme team.
+
+
+Job Description
+
+
+What you will do (Job Specific Details on the nature of the job and responsibilities).
+
+
+Position details
+Title of position: AI Staff SW Systems Engineer -AI Infra -Distributed Systems, Microservices, AI Infrastructure, Agentic
+
+Position type: Full time
+
+Location: Seattle, WA
+
+Position reports to: AI Director of SW Systems Engineering
+
+Application deadline: Applications are being accepted on a rolling basis and this posting will remain open until filled.
+
+Work authorization: We are unable to sponsor or take over sponsorship of an employment visa, including H-1B visas, at this time
+
+
+Software Engineering:
+
+
+Are you energized by the opportunity to shape the future of intelligent networking, generative AI, and autonomous agentic systems? Do you want to help build highly scalable systems that process real-time network data, power intelligent experiences, and enable AI agents to reason, remember, plan, collaborate, use tools, and safely take action on behalf of users? Do you aspire to create global impact while tackling challenges at the intersection of networking, AI, distributed systems, cloud platforms, security, and real-time data processing? Then come advance with us.
+
+
+This is an incredible opportunity to work at the forefront of intelligent networking, agentic automation, cloud-native platforms, and real-time distributed systems. You will help lead the development of core platforms and services that process large volumes of network and operational data and power AI experiences across Extreme. These systems must be scalable, secure, reliable, observable, adaptable, and safe for enterprise use cases.
+
+There has never been a better time to join Extreme. Following several acquisitions that have expanded our portfolio and go-to-market strategy, we are seeing tremendous opportunity and growth across regions. In addition to being recognized as a Technology Leader in the Gartner Magic Quadrant, we actively promote an internal culture that truly embraces diversity. Our motto at Extreme is “Advance with us,” and it applies to everyone we work with, both inside and outside the company.
+
+
+
+Our group is responsible for developing core platforms and services spanning networking, agentic AI, distributed data processing, real-time analytics, and intelligent automation. These capabilities positively impact multiple existing Extreme flagship products as well as new company offerings. We are spearheading a fundamental shift in how businesses operate and manage their wired and wireless networks by building high-performance, real-time systems that can process massive volumes of network data, derive actionable insights, and enable intelligent agents to assist users or act on their behalf. As part of this group, you will continuously experiment with emerging technologies, create best-in-class networking experiences, and launch state-of-the-art software, data, and AI solutions.
+
+
+Job Responsibilities:
+
+Serve as a thought leader and forward thinker, helping define and drive an innovative technical vision across our products and platforms. Design and launch strategic capabilities spanning intelligent networking, distributed systems, real-time data processing, agentic AI, and machine learning.
+Lead the end-to-end software development lifecycle, including architecture, design, implementation, testing, deployment, and operations. Lead technical discussions and strategy while participating hands-on in design reviews, code reviews, and implementation.
+Design and build high-performance, production-ready services for next-generation real-time data and AI platforms, including scalable data pipelines, distributed microservices, agentic solutions, and integrations with networking systems.
+Mentor and develop engineers across the team, establish a clear technical direction, and foster a culture of innovation, collaboration, accountability, and engineering excellence.
+Uphold the highest standards of technical rigor and operational excellence. Build highly resilient, secure, observable, and scalable systems, and champion improvements to architecture, engineering processes, system performance, and operational readiness.
+
+Basic Qualifications:
+
+Bachelor’s degree in Computer Science, Engineering, Mathematics, or a related technical discipline, or equivalent practical experience.
+8+ years of experience across the complete software development lifecycle, including architecture, design, coding, code reviews, testing, build processes, deployment, and production operations.
+8+ years of programming experience, with proficiency in at least one general-purpose programming language, preferably Python, Java, Go, or C++.
+4+ years of experience leading the design and architecture of large-scale distributed systems, preferably on cloud platforms such as AWS, Azure, or Google Cloud.
+Experience in one or more of the following areas: real-time microservices, stream processing, distributed data platforms, cloud infrastructure, AI or agentic systems, network telemetry, or large-scale analytics.
+Experience designing systems that process high-volume, high-velocity data with stringent requirements for scalability, availability, latency, and operational reliability.
+Experience mentoring engineers, serving as a technical lead, or leading an engineering team.
+Demonstrated ability to tackle highly complex, ambiguous, or undefined technical problems and translate them into pragmatic, production-ready solutions.
+
+Preferred Qualifications:
+
+Master’s or PhD in Computer Science, Computer Engineering, Electrical Engineering, Machine Learning, or a related discipline, or equivalent practical experience.
+Experience building highly scalable, event-driven microservices and processing large volumes of real-time operational or network data.
+Experience building generative AI or agentic systems, including tool use, planning, memory, retrieval, orchestration, evaluation, and production deployment.
+Experience developing networking, network management, observability, telemetry, cloud infrastructure, or distributed control-plane systems.
+Experience with distributed data and processing technologies such as Kafka, Spark, Flink, PySpark, MapReduce, or comparable technologies.
+Experience working with large-scale, real-world datasets and building reliable production systems that translate data into actionable insights or automated outcomes.
+Come work with a team of highly talented engineers and advance with us as we build the next generation of intelligent networking systems.
+
+
+Compensation: This role has a market-competitive compensation with an anticipated base compensation range of USD18000 to USD 200000. The posted range reflects the amount Extreme Networks reasonably and in good faith expects to pay for this role upon hire. This range is set using objective, gender-neutral criteria based on skills, experience, responsibility, and working conditions. Actual compensation offered will depend on the selected candidate's experience, qualifications, skills, and work location.
+
+
+Benefits and Total Rewards:
+
+Extreme Networks offers a comprehensive benefits package. Specific benefits vary by country and may include:
+
+• Medical, dental, and vision insurance
+
+• Flexible work schedules and work-from-home opportunities where role permits
+
+• Paid time off, including open time off in eligible markets and statutory leave in all markets
+
+• Paid holidays in accordance with local practice
+
+• Retirement savings programs, including 401(k) matching in the United States
+
+• Employee Stock Purchase Program, where eligible
+
+• Adoption assistance and fertility treatment support, where eligible
+
+• Flexible spending accounts, where eligible
+
+• Employee assistance program
+
+• Tuition reimbursement, where eligible
+
+• Life and disability insurance
+
+Benefits eligibility is based on country of employment, role, and employment status. Complete benefits details will be provided during the interview process and in the formal offer of employment.
+
+Equal Employment Opportunity
+
+Extreme Networks, Inc. is an Equal Opportunity Employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran. We are committed to taking affirmative action to employ and advance in employment qualified protected veterans, including disabled veterans, recently separated veterans, active-duty wartime or campaign badge veterans, and Armed Forces service medal veterans.
+
+Extreme Networks also strives to prevent other, subtler forms of inappropriate behavior (for example, stereotyping) from ever gaining a foothold in our organization. Whether blatant or hidden, barriers to success have no place at Extreme Networks. We encourage people from underrepresented groups to apply.
+
+Fair chance and background checks
+
+Extreme Networks will consider qualified applicants with criminal histories in a manner consistent with the California Fair Chance Act, Los Angeles Fair Chance Initiative for Hiring Ordinance, Los Angeles County Fair Chance Ordinance for Employers, Philadelphia Fair Criminal Record Screening Standards Ordinance, Illinois Human Rights Act, Cook County Human Rights Ordinance, Seattle Fair Chance Employment Ordinance, and the San Francisco Fair Chance Ordinance. An applicant's conviction history will not be considered until after a conditional offer of employment has been made. Following any individualized assessment, applicants will be provided with the opportunity to respond before any adverse action is taken.
+
+Extreme Networks does not seek salary history information from applicants and will not rely on salary history in determining whether to offer employment or in setting compensation.
+
+Reasonable accommodation
+
+Extreme Networks is committed to providing reasonable accommodations to qualified applicants with disabilities throughout the application, interview, and hiring process. If you require a reasonable accommodation to participate in the application or interview process, please contact [insert contact email and phone]. All requests will be handled confidentially.
+
+Use of artificial intelligence in hiring
+
+Extreme Networks may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are made by humans. Applicants have the right to request human review of any automated decision affecting their candidacy and to request information about how their personal data is processed. To exercise these rights, please contact [insert contact email].
+
+Data privacy
+
+Personal data provided during the application process will be processed in accordance with Extreme Networks' Candidate Privacy Notice, which is available at https://www.extremenetworks.com/about-extreme-networks/company/legal/privacy-and-cookies-policy . For applicants in the European Economic Area, United Kingdom, and other jurisdictions with comparable data protection laws, the Candidate Privacy Notice describes your rights regarding your personal data.
+
+About Extreme Networks
+
+Extreme Networks, Inc. (NASDAQ: EXTR) creates effortless networking experiences that enable people and organizations to advance. We push the boundaries of technology by leveraging machine learning, artificial intelligence, analytics, and automation.
+
+Learn more at www.extremenetworks.com , or follow us on LinkedIn, X, and Facebook.
+
+
+Job Description Summary
+
+
+
+Qualifications
+
+
+Basic Requirements and Preferred Qualifications for the job.
+
+
+BA - Computer Engineering
+
+We encourage people from underrepresented groups to apply. Come Advance with us! In keeping with our values, no employee or applicant will face discrimination/harassment based on: race, color, ancestry, national origin, religion, age, gender, marital domestic partner status, sexual orientation, gender identity, disability status, or veteran status. Above and beyond discrimination/harassment based on “protected categories,” Extreme Networks also strives to prevent other, subtler forms of inappropriate behavior (e.g., stereotyping) from ever gaining a foothold in our organization. Whether blatant or hidden, barriers to success have no place at Extreme Networks.
+
+
+We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human oversight. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed —or to exercise any applicable privacy rights—please contact us at privacyinquiries@extremenetworks.com.
+
+
+Our full privacy statement is available here: Privacy Statement

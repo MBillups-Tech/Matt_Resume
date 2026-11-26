@@ -1,0 +1,35 @@
+Test full stack dev
+New York, NY • Remote
+
+Continue
+
+
+Eshurance
+See more jobs at Eshurance
+Full-time
+Posted 6 hours ago
+Posted today
+Job description
+Eshurance, a leading company in the accounting industry, is seeking a highly skilled Test Full Stack Developer to join our dynamic team. This role is ideal for a motivated professional who is passionate about ensuring software quality and functionality across both front-end and back-end platforms. As a Test Full Stack Developer at Eshurance, you will play a critical role in designing, developing, and executing test plans and strategies to deliver robust accounting solutions that meet the highest standards of accuracy and performance. You will collaborate closely with software engineers, product managers, and business analysts to identify test requirements, automate testing processes, and troubleshoot issues that arise during development cycles. This position offers an exciting opportunity to work in a fast-paced environment where your contributions directly impact the reliability of financial applications used by thousands of clients. The role requires a blend of technical expertise in full stack development and a strong understanding of software testing methodologies within the accounting domain. If you are eager to advance your career by ensuring high-quality software delivery in a supportive and innovative company, Eshurance invites you to become a vital member of our team focused on excellence and continuous improvement.
+
+
+Responsibilities
+Design and implement comprehensive test plans, test cases, and automation scripts for full stack applications.
+Perform manual and automated testing across front-end and back-end components to ensure functionality and performance.
+Collaborate with development and product teams to understand requirements and define testing criteria.
+Identify, document, and track software defects and ensure timely resolution.
+Develop and maintain automated test frameworks and tools to enhance testing efficiency.
+Analyze test results and provide detailed reports to stakeholders.
+Participate in code reviews and contribute to continuous integration and delivery processes.
+Stay updated with industry trends and best practices in software testing and full stack development.
+Requirements
+
+Proven experience as a Full Stack Developer with a strong focus on testing within complex software environments.
+Proficiency in front-end technologies such as JavaScript, HTML, CSS, and relevant frameworks (e.g., React, Angular).
+Strong back-end development skills using languages like Java, Python, or Node.js.
+Experience with automated testing tools and frameworks such as Selenium, Jest, Mocha, or similar.
+Thorough understanding of software testing methodologies including unit, integration, system, and regression testing.
+Familiarity with accounting software or financial regulations is highly desirable.
+Excellent problem-solving abilities and attention to detail.
+Ability to work collaboratively in agile teams and communicate effectively with technical and non-technical stakeholders.
+Bachelor's degree in Computer Science, Information Technology, or a related field is preferred.

@@ -1,0 +1,116 @@
+Sr. Software Engineer
+Date: Nov 24, 2026
+
+Location: Neenah, WI, US, 54956
+
+Company: J. J. Keller & Associates, Inc.
+
+Requisition #: 20839
+Functional Area:  Software Development
+Employment Type:  Full-Time
+Work Options:  Remote / Work from Home in the US #LI-Remote
+Work Hours:  Standard Business Hours
+
+Position Summary
+J. J. Keller is seeking a Sr. Software Engineer with strong Azure Cloud and .NET expertise to help design, develop, deploy, and support business-critical applications and cloud-based services. This role combines software development with cloud infrastructure and DevOps responsibilities, providing an opportunity to work across the full application lifecycle, from technical design and coding to deployment automation, monitoring, and production support.
+
+ 
+
+The ideal candidate is a hands-on senior contributor who can independently own complex work from design through production, make sound implementation decisions, maintain a high bar for quality and security, troubleshoot difficult production issues, and raise the technical capability of engineers around them. They should understand not only the code they are changing, but how that change affects the larger ecosystem. They should proactively identify technical risks, improve engineering practices through example, mentory other engineers, and be capable of leading substantial development efforts without needing day-to-day technical direction.
+
+ 
+
+Key Technologies: Angular, Azure: App Service, Functions, API Management, Service Bus, SQL Database
+
+Job Responsibilities
+Takes technical ownership of complex application capabilities from design through production, making sound implementation decisions while considering architecture, security, performance, reliability, maintainability, and downstream system impacts.
+Analyzes user needs and impact to other site areas to determine technical requirements of assigned tasks.
+Promotes strong quality practices by performing unit testing and providing appropriate level of support for user acceptance testing, as needed.
+Follows secure coding standards and incorporates basic security-by-design principles into assigned development tasks.
+Adheres to OWASP best practices to reduce common security risks such as input validation errors, insecure data handling, etc.
+Maintains accurate technical documentation for assigned programming projects.
+Acts as a support resource for the technical support staff to ensure that customer-reported issues are being addressed in an efficient and accurate manner.
+Performs lead developer role on assigned projects.
+Interfaces with Website and Database Administrators to maintain optimal server configuration, database accuracy/integrity and for coordination of staging and production moves.
+Develops and maintains a solid understanding of the technology tools and trends and remains current in new technology developments and their potential impact on the department.
+Proactively explores, applies, and advocates for AI-assisted and agentic development practices that improve engineering effectiveness, while ensuring generated solutions meet established standards for architecture, security, quality, maintainability, and production readiness.
+Qualifications
+Experience & Education
+
+5+ years of software engineering experience, including analysis, design, development, testing, deployment, and production support.
+Experience developing and supporting .NET-based web applications and services.
+Experience working in cloud-based environments.
+Working knowledge of Software Development Life Cycle (SDLC) methodologies and best practices including Secure by Design principles.
+Associate's degree in Computer Science, Information Technology, or a related field required; Bachelor's degree preferred.
+Equivalent combinations of education and relevant experience will be considered.
+ 
+
+Technical Skills
+
+Required
+.NET application development and support
+Angular
+Typescript
+SQL Server development and database design concepts
+CI/CD pipeline creation, maintenance, and deployment automation
+Object-oriented programming principles
+Source control and modern development practices
+.NET Core/Entity Framework
+Azure Cloud services including: App Service, Functions, API Management, Blob Storage, Key Vault, Entra ID/Managed Identity
+Preferred
+Infrastructure as Code
+Experience migrating applications from Windows-based hosting environments to Linux platforms
+Containerization and cloud-native application architectures
+Experience supporting highly available production environments
+ 
+
+Internal J. J. Keller experience requirements may vary from those for external candidates, with consideration given to demonstrated performance, institutional knowledge, and career progression within the organization.
+
+Physical Requirements
+Work is performed primarily in a standard office environment. Work involves operation of personal computer equipment for extended periods of time. Occasional travel to offsite offices, customer sites and/or industry and training events may also be required, depending on assignment.
+
+We Protect People & The Businesses They Run™
+
+ 
+
+Every associate at J. J. Keller makes a difference by creating safer, more respectful workplaces. Whether serving our customers directly with expertise in safety and regulatory compliance or supporting the business with specialized skills, together we contribute to better workplaces for people across North America.
+
+ 
+
+J. J. Keller History:  November 1, 2023, marked 70 years of business for J. J. Keller & Associates, Inc. Click HERE to take a tour through three generations of this family-owned business – from our founding as a one-man consulting firm through decades of delivering on our purpose of protecting people and the businesses they run.
+
+ 
+
+J. J. Keller Career Stories:  Click HERE to hear from our associates about what they have to say about life as an associate at J. J. Keller.
+
+ 
+
+J. J. Keller Earns 10th Great Place to Work Certification™:  Click HERE to find out what makes J. J. Keller great.
+
+ 
+
+J. J. Keller Certified as a Top 100 Most Loved Workplace® in America:  Click HERE to find out why our associates LOVE working at J. J. Keller.
+
+ 
+
+2024 Top Company for Women to Work for in Transportation:  Click HERE to learn more about this prestigious recognition.
+
+ 
+
+If you experience system-related issues or need assistance with the online application, please call (920) 720-7700.
+
+ 
+
+Professional Referral Program:  Not the right role for you, but know someone who could be a great fit? Click HERE to refer them to us through our Professional Referral Program and you will earn a cash payment if your referral is hired.
+
+ 
+
+J. J. Keller & Associates, Inc. is an Equal Opportunity Employer and does not discriminate against any employee or applicant for employment because of race, color, sex, age, national origin, religion, sexual orientation, gender identity, status as a veteran, and basis of disability or any other federal, state or local protected class.
+
+
+Nearest Major Market: Oshkosh
+Nearest Secondary Market: Appleton
+Job Segment: Test Engineer, Software Engineer, Cloud, R&D Engineer, Testing, Engineering, Technology
+
+Find similar jobs:
+Software / Technology / R&D, IT / Technology

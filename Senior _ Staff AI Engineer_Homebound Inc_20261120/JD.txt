@@ -1,0 +1,257 @@
+Senior / Staff AI Engineer
+Location
+Remote, US
+
+Employment Type
+Full time
+
+Location Type
+Remote
+
+Department
+Engineering
+
+Deadline to Apply
+January 30, 2027 at 12:00 AM MST
+
+Compensation
+Estimated Base Salary: $160K – $220K • Offers Equity
+Overview
+Application
+About Us:
+
+Homebound is on a mission to make it possible for anyone, anywhere, to build a home using technology. Created by an experienced team of construction, real estate, design, and technology experts, Homebound is transforming the residential construction industry by improving the costly and inefficient process of building a home. 
+
+We’ve created an entirely new way to build homes with technology powering every stage from start to finish to provide a seamless experience for our customers. Homeowners across the country can choose where they want to live, select a home plan that’s perfect for them, then personalize and buy it, all online. Homebound has raised $150M in capital from leading venture capitalists like Google, Khosla, Thrive Ventures, and we’re scaling quickly in places like Texas, Colorado and Florida. Come build your future with us.
+
+About The Role:
+
+Homebound is seeking an exceptional Senior/Staff AI Engineer to accelerate our mission of building the leading vertical AI stack for residential construction. Our proprietary platform captures granular data at every stage of the homebuilding process, enabling us to develop novel LLM-powered applications that improve efficiency and quality across the board.
+
+We are a small, fast-moving team with multiple AI products already in production and a rapidly growing AI platform. In this role, you will lead the research and implementation of cutting-edge advancements in AI, design and deploy impactful features, and collaborate with cross-functional teams to shape the future of homebuilding.
+
+ 
+What You'll Do:
+
+Shape the vision for how AI, particularly LLMs, integrate into Homebound’s products and operations. Define technical standards for experimentation, deployment, and evaluation.
+
+Design and build scalable AI systems that can handle real-world production workloads and evolve with the business.
+
+Deliver high-quality, production-grade code daily while ensuring observability, maintainability, and reliability.
+
+Raise the bar across engineering by teaching AI best practices, reviewing designs, and guiding engineers through complex technical challenges.
+
+Stay abreast of the rapidly evolving AI landscape, bringing forward cutting-edge ideas while focusing investment where it creates clear business impact.
+
+What You Have Done In Your Career:
+
+7+ years of professional software engineering experience, with a strong focus on AI systems.
+
+Shipped LLM-powered features into production, including hands-on experience with some or all of the following:
+
+RAG
+
+eval frameworks
+
+agentic loops.
+
+sandboxes for agents
+
+systems to edit memory
+
+managing subagents
+
+Pydantic AI
+
+agent observability
+
+Fluency in Python. Proven ability to design systems that balance rapid experimentation with long-term reliability and maintainability.
+
+A strong understanding of metrics and data science logic
+
+Who You Are:
+
+You take ownership and seek autonomy over your work and outcomes.
+
+You’re excited to learn and grow as part of a small, nimble, high-impact team.
+
+You communicate clearly and proactively - especially in writing without AI assistance.
+
+You’re humble, good-natured, and bring a positive energy to your team.
+
+Our Commitment:
+
+We are focused on building a diverse and inclusive workforce. If you’re excited about this role, but do not meet 100% of the qualifications listed above, we encourage you to apply. To apply, please submit an application with your resume on the Career’s page.
+
+Homebound is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Homebound considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.
+
+Our Compensation Philosophy:
+
+Our salary ranges are determined by role, level, and location. Please note that the salary range displayed on each job posting may vary by state. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter will share more about the specific salary range for your preferred location during the hiring process. Please note that each job posting includes a general description of any other compensation offered for the position in addition to the salary range displayed on the job posting. You can find information about our benefits here.----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior / Staff AI Engineer
+Location
+Remote, US
+
+Employment Type
+Full time
+
+Location Type
+Remote
+
+Department
+Engineering
+
+Deadline to Apply
+January 30, 2027 at 12:00 AM MST
+
+Compensation
+Estimated Base Salary: $160K – $220K • Offers Equity
+Overview
+Application
+About Us:
+
+Homebound is on a mission to make it possible for anyone, anywhere, to build a home using technology. Created by an experienced team of construction, real estate, design, and technology experts, Homebound is transforming the residential construction industry by improving the costly and inefficient process of building a home. 
+
+We’ve created an entirely new way to build homes with technology powering every stage from start to finish to provide a seamless experience for our customers. Homeowners across the country can choose where they want to live, select a home plan that’s perfect for them, then personalize and buy it, all online. Homebound has raised $150M in capital from leading venture capitalists like Google, Khosla, Thrive Ventures, and we’re scaling quickly in places like Texas, Colorado and Florida. Come build your future with us.
+
+About The Role:
+
+Homebound is seeking an exceptional Senior/Staff AI Engineer to accelerate our mission of building the leading vertical AI stack for residential construction. Our proprietary platform captures granular data at every stage of the homebuilding process, enabling us to develop novel LLM-powered applications that improve efficiency and quality across the board.
+
+We are a small, fast-moving team with multiple AI products already in production and a rapidly growing AI platform. In this role, you will lead the research and implementation of cutting-edge advancements in AI, design and deploy impactful features, and collaborate with cross-functional teams to shape the future of homebuilding.
+
+ 
+What You'll Do:
+
+Shape the vision for how AI, particularly LLMs, integrate into Homebound’s products and operations. Define technical standards for experimentation, deployment, and evaluation.
+
+Design and build scalable AI systems that can handle real-world production workloads and evolve with the business.
+
+Deliver high-quality, production-grade code daily while ensuring observability, maintainability, and reliability.
+
+Raise the bar across engineering by teaching AI best practices, reviewing designs, and guiding engineers through complex technical challenges.
+
+Stay abreast of the rapidly evolving AI landscape, bringing forward cutting-edge ideas while focusing investment where it creates clear business impact.
+
+What You Have Done In Your Career:
+
+7+ years of professional software engineering experience, with a strong focus on AI systems.
+
+Shipped LLM-powered features into production, including hands-on experience with some or all of the following:
+
+RAG
+
+eval frameworks
+
+agentic loops.
+
+sandboxes for agents
+
+systems to edit memory
+
+managing subagents
+
+Pydantic AI
+
+agent observability
+
+Fluency in Python. Proven ability to design systems that balance rapid experimentation with long-term reliability and maintainability.
+
+A strong understanding of metrics and data science logic
+
+Who You Are:
+
+You take ownership and seek autonomy over your work and outcomes.
+
+You’re excited to learn and grow as part of a small, nimble, high-impact team.
+
+You communicate clearly and proactively - especially in writing without AI assistance.
+
+You’re humble, good-natured, and bring a positive energy to your team.
+
+Our Commitment:
+
+We are focused on building a diverse and inclusive workforce. If you’re excited about this role, but do not meet 100% of the qualifications listed above, we encourage you to apply. To apply, please submit an application with your resume on the Career’s page.
+
+Homebound is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Homebound considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.
+
+Our Compensation Philosophy:
+
+Our salary ranges are determined by role, level, and location. Please note that the salary range displayed on each job posting may vary by state. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter will share more about the specific salary range for your preferred location during the hiring process. Please note that each job posting includes a general description of any other compensation offered for the position in addition to the salary range displayed on the job posting. You can find information about our benefits here.
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+
+

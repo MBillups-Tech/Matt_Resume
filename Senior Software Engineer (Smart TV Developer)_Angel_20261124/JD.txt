@@ -1,0 +1,487 @@
+Senior Software Engineer (Smart TV Developer)
+Provo, UT • Remote
+Apply
+
+
+Angel
+ • 
+Fitness and Sports Centers
+ • 
+51 - 200 employees
+Learn more about Angel
+$120K - $180K/yr
+Full-time
+Posted 21 hours ago
+Posted today
+Job description
+Description
+
+Our Smart TV app runs on one Lightning JS and SolidJS codebase that powers Angel on Samsung (Tizen), LG (webOS), Vizio, Xbox and Xumo. We rebuilt it from scratch in 2025, and it is now dramatically faster than the app it replaced, even on low-end TVs.
+
+We're looking for a senior engineer to own that app: keep it fast on older, low-memory TVs, make playback rock solid for every viewer, and take it to new platforms as we grow. You'll have real ownership and a direct line to the people who decide what we build next.
+
+In this role, you'll work with a high-energy, cross-functional team, which will include other developers, product managers, and designers to perfect the viewing and community engagement experience for viewers of TV shows and movies across all Angel Studios web, mobile, and TV apps.
+
+Location: Remote or on site.
+
+
+
+You may enjoy working with us if you:
+Are self-driven and highly motivated to deliver top-tier solutions with minimal guidance. You also recognize when you're wrong, learn from your mistakes and move past them.
+Enjoy creating beautiful, rich, inviting TV experiences that delight and surprise every person who views your craft by connecting deeply with the way users feel and anticipating their needs.
+Are curious about the evolution of technology and are constantly seeking to improve your craft by taking advantage of the advances made in the field.
+Strive to embrace best practices and are always searching for opportunities to continually improve, learn and grow.
+Enjoy working with people and empowering everyone to do the best work of their life by ensuring they can leverage technology to serve them.
+What you'll do
+Own the Smart TV app end to end across Samsung Tizen, LG webOS, Vizio, Xbox and Xumo, from code through store submission and release.
+Make browsing and playback fast and reliable on constrained devices, including older TVs running old browser engines.
+Track down and fix memory, performance and app lifecycle bugs.
+Own release health: monitoring, alerts, error and crash metrics, and a quick response when something breaks.
+Bring the app to new platforms, starting with Amazon's Vega OS, and to older device generations as the business needs them.
+Build features with product and design, such as in-app purchase, accessibility like text to speech, and platform search integrations.
+Set the performance and quality bar in CI, review code and mentor other engineers on the TV team.
+Write clear technical docs so the team can move fast without you in the room.
+Requirements
+
+What we're looking for
+12+ years of software development experience.
+Senior front-end engineering experience, with a meaningful share of it shipping apps on smart TVs or other constrained devices.
+Deep JavaScript and TypeScript skills.
+Hands-on production experience with Lightning JS.
+Hands-on experience with a range of AI tools such as Claude, and knowing how to set up an efficient AI workspace to get the most out of them.
+Video streaming experience, especially HLS playback on the client.
+A track record of profiling and tuning performance and memory, with the numbers to show for it.
+Comfort owning releases through TV platform store and certification processes.
+Clear written communication and a habit of working closely with product and design.
+Nice to have
+Functional programming in TypeScript, such as Effect or fp-ts.
+pnpm monorepos.
+Supporting very old browser engines on legacy TVs.
+Bash and platform command line SDKs, like the Tizen and webOS tooling.
+Datadog or similar observability tools.
+In-app purchase on TV platforms.
+Experience with newer TV platforms such as Amazon Vega OS, PlayStation or Titan OS.
+SolidJS or a similar fine-grained reactive framework.
+A love for Angel's stories and mission. Angel Guild members are a plus.----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Software Engineer (Smart TV Developer)
+Provo, UT • Remote
+Apply
+
+
+Angel
+ • 
+Fitness and Sports Centers
+ • 
+51 - 200 employees
+Learn more about Angel
+$120K - $180K/yr
+Full-time
+Posted 21 hours ago
+Posted today
+Job description
+Description
+
+Our Smart TV app runs on one Lightning JS and SolidJS codebase that powers Angel on Samsung (Tizen), LG (webOS), Vizio, Xbox and Xumo. We rebuilt it from scratch in 2025, and it is now dramatically faster than the app it replaced, even on low-end TVs.
+
+We're looking for a senior engineer to own that app: keep it fast on older, low-memory TVs, make playback rock solid for every viewer, and take it to new platforms as we grow. You'll have real ownership and a direct line to the people who decide what we build next.
+
+In this role, you'll work with a high-energy, cross-functional team, which will include other developers, product managers, and designers to perfect the viewing and community engagement experience for viewers of TV shows and movies across all Angel Studios web, mobile, and TV apps.
+
+Location: Remote or on site.
+
+
+
+You may enjoy working with us if you:
+Are self-driven and highly motivated to deliver top-tier solutions with minimal guidance. You also recognize when you're wrong, learn from your mistakes and move past them.
+Enjoy creating beautiful, rich, inviting TV experiences that delight and surprise every person who views your craft by connecting deeply with the way users feel and anticipating their needs.
+Are curious about the evolution of technology and are constantly seeking to improve your craft by taking advantage of the advances made in the field.
+Strive to embrace best practices and are always searching for opportunities to continually improve, learn and grow.
+Enjoy working with people and empowering everyone to do the best work of their life by ensuring they can leverage technology to serve them.
+What you'll do
+Own the Smart TV app end to end across Samsung Tizen, LG webOS, Vizio, Xbox and Xumo, from code through store submission and release.
+Make browsing and playback fast and reliable on constrained devices, including older TVs running old browser engines.
+Track down and fix memory, performance and app lifecycle bugs.
+Own release health: monitoring, alerts, error and crash metrics, and a quick response when something breaks.
+Bring the app to new platforms, starting with Amazon's Vega OS, and to older device generations as the business needs them.
+Build features with product and design, such as in-app purchase, accessibility like text to speech, and platform search integrations.
+Set the performance and quality bar in CI, review code and mentor other engineers on the TV team.
+Write clear technical docs so the team can move fast without you in the room.
+Requirements
+
+What we're looking for
+12+ years of software development experience.
+Senior front-end engineering experience, with a meaningful share of it shipping apps on smart TVs or other constrained devices.
+Deep JavaScript and TypeScript skills.
+Hands-on production experience with Lightning JS.
+Hands-on experience with a range of AI tools such as Claude, and knowing how to set up an efficient AI workspace to get the most out of them.
+Video streaming experience, especially HLS playback on the client.
+A track record of profiling and tuning performance and memory, with the numbers to show for it.
+Comfort owning releases through TV platform store and certification processes.
+Clear written communication and a habit of working closely with product and design.
+Nice to have
+Functional programming in TypeScript, such as Effect or fp-ts.
+pnpm monorepos.
+Supporting very old browser engines on legacy TVs.
+Bash and platform command line SDKs, like the Tizen and webOS tooling.
+Datadog or similar observability tools.
+In-app purchase on TV platforms.
+Experience with newer TV platforms such as Amazon Vega OS, PlayStation or Titan OS.
+SolidJS or a similar fine-grained reactive framework.
+A love for Angel's stories and mission. Angel Guild members are a plus.
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Software Engineer (Smart TV Developer)
+Provo, UT • Remote
+Apply
+
+
+Angel
+ • 
+Fitness and Sports Centers
+ • 
+51 - 200 employees
+Learn more about Angel
+$120K - $180K/yr
+Full-time
+Posted 21 hours ago
+Posted today
+Job description
+Description
+
+Our Smart TV app runs on one Lightning JS and SolidJS codebase that powers Angel on Samsung (Tizen), LG (webOS), Vizio, Xbox and Xumo. We rebuilt it from scratch in 2025, and it is now dramatically faster than the app it replaced, even on low-end TVs.
+
+We're looking for a senior engineer to own that app: keep it fast on older, low-memory TVs, make playback rock solid for every viewer, and take it to new platforms as we grow. You'll have real ownership and a direct line to the people who decide what we build next.
+
+In this role, you'll work with a high-energy, cross-functional team, which will include other developers, product managers, and designers to perfect the viewing and community engagement experience for viewers of TV shows and movies across all Angel Studios web, mobile, and TV apps.
+
+Location: Remote or on site.
+
+
+
+You may enjoy working with us if you:
+Are self-driven and highly motivated to deliver top-tier solutions with minimal guidance. You also recognize when you're wrong, learn from your mistakes and move past them.
+Enjoy creating beautiful, rich, inviting TV experiences that delight and surprise every person who views your craft by connecting deeply with the way users feel and anticipating their needs.
+Are curious about the evolution of technology and are constantly seeking to improve your craft by taking advantage of the advances made in the field.
+Strive to embrace best practices and are always searching for opportunities to continually improve, learn and grow.
+Enjoy working with people and empowering everyone to do the best work of their life by ensuring they can leverage technology to serve them.
+What you'll do
+Own the Smart TV app end to end across Samsung Tizen, LG webOS, Vizio, Xbox and Xumo, from code through store submission and release.
+Make browsing and playback fast and reliable on constrained devices, including older TVs running old browser engines.
+Track down and fix memory, performance and app lifecycle bugs.
+Own release health: monitoring, alerts, error and crash metrics, and a quick response when something breaks.
+Bring the app to new platforms, starting with Amazon's Vega OS, and to older device generations as the business needs them.
+Build features with product and design, such as in-app purchase, accessibility like text to speech, and platform search integrations.
+Set the performance and quality bar in CI, review code and mentor other engineers on the TV team.
+Write clear technical docs so the team can move fast without you in the room.
+Requirements
+
+What we're looking for
+12+ years of software development experience.
+Senior front-end engineering experience, with a meaningful share of it shipping apps on smart TVs or other constrained devices.
+Deep JavaScript and TypeScript skills.
+Hands-on production experience with Lightning JS.
+Hands-on experience with a range of AI tools such as Claude, and knowing how to set up an efficient AI workspace to get the most out of them.
+Video streaming experience, especially HLS playback on the client.
+A track record of profiling and tuning performance and memory, with the numbers to show for it.
+Comfort owning releases through TV platform store and certification processes.
+Clear written communication and a habit of working closely with product and design.
+Nice to have
+Functional programming in TypeScript, such as Effect or fp-ts.
+pnpm monorepos.
+Supporting very old browser engines on legacy TVs.
+Bash and platform command line SDKs, like the Tizen and webOS tooling.
+Datadog or similar observability tools.
+In-app purchase on TV platforms.
+Experience with newer TV platforms such as Amazon Vega OS, PlayStation or Titan OS.
+SolidJS or a similar fine-grained reactive framework.
+A love for Angel's stories and mission. Angel Guild members are a plus.----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Software Engineer (Smart TV Developer)
+Provo, UT • Remote
+Apply
+
+
+Angel
+ • 
+Fitness and Sports Centers
+ • 
+51 - 200 employees
+Learn more about Angel
+$120K - $180K/yr
+Full-time
+Posted 21 hours ago
+Posted today
+Job description
+Description
+
+Our Smart TV app runs on one Lightning JS and SolidJS codebase that powers Angel on Samsung (Tizen), LG (webOS), Vizio, Xbox and Xumo. We rebuilt it from scratch in 2025, and it is now dramatically faster than the app it replaced, even on low-end TVs.
+
+We're looking for a senior engineer to own that app: keep it fast on older, low-memory TVs, make playback rock solid for every viewer, and take it to new platforms as we grow. You'll have real ownership and a direct line to the people who decide what we build next.
+
+In this role, you'll work with a high-energy, cross-functional team, which will include other developers, product managers, and designers to perfect the viewing and community engagement experience for viewers of TV shows and movies across all Angel Studios web, mobile, and TV apps.
+
+Location: Remote or on site.
+
+
+
+You may enjoy working with us if you:
+Are self-driven and highly motivated to deliver top-tier solutions with minimal guidance. You also recognize when you're wrong, learn from your mistakes and move past them.
+Enjoy creating beautiful, rich, inviting TV experiences that delight and surprise every person who views your craft by connecting deeply with the way users feel and anticipating their needs.
+Are curious about the evolution of technology and are constantly seeking to improve your craft by taking advantage of the advances made in the field.
+Strive to embrace best practices and are always searching for opportunities to continually improve, learn and grow.
+Enjoy working with people and empowering everyone to do the best work of their life by ensuring they can leverage technology to serve them.
+What you'll do
+Own the Smart TV app end to end across Samsung Tizen, LG webOS, Vizio, Xbox and Xumo, from code through store submission and release.
+Make browsing and playback fast and reliable on constrained devices, including older TVs running old browser engines.
+Track down and fix memory, performance and app lifecycle bugs.
+Own release health: monitoring, alerts, error and crash metrics, and a quick response when something breaks.
+Bring the app to new platforms, starting with Amazon's Vega OS, and to older device generations as the business needs them.
+Build features with product and design, such as in-app purchase, accessibility like text to speech, and platform search integrations.
+Set the performance and quality bar in CI, review code and mentor other engineers on the TV team.
+Write clear technical docs so the team can move fast without you in the room.
+Requirements
+
+What we're looking for
+12+ years of software development experience.
+Senior front-end engineering experience, with a meaningful share of it shipping apps on smart TVs or other constrained devices.
+Deep JavaScript and TypeScript skills.
+Hands-on production experience with Lightning JS.
+Hands-on experience with a range of AI tools such as Claude, and knowing how to set up an efficient AI workspace to get the most out of them.
+Video streaming experience, especially HLS playback on the client.
+A track record of profiling and tuning performance and memory, with the numbers to show for it.
+Comfort owning releases through TV platform store and certification processes.
+Clear written communication and a habit of working closely with product and design.
+Nice to have
+Functional programming in TypeScript, such as Effect or fp-ts.
+pnpm monorepos.
+Supporting very old browser engines on legacy TVs.
+Bash and platform command line SDKs, like the Tizen and webOS tooling.
+Datadog or similar observability tools.
+In-app purchase on TV platforms.
+Experience with newer TV platforms such as Amazon Vega OS, PlayStation or Titan OS.
+SolidJS or a similar fine-grained reactive framework.
+A love for Angel's stories and mission. Angel Guild members are a plus.
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+

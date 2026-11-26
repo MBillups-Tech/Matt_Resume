@@ -1,0 +1,92 @@
+Senior Forward Deployed AI Engineer - LLMs & RAG - Remote - USA
+
+Pierre
+South Dakota
+USA
+About FullStack
+
+FullStack is your AI-native engineering partner, built to turn AI capability into certainty. Most companies can demo AI; few can get it to production and prove what it produced. We close that gap with three capabilities, AI built into your products from the start, elite vetted talent who apply it, and transparent execution that shows value every step of the way. With now over 600 customers in North America, FullStack is one integrated partner for all your AI engineering needs. With FullStack, you move forward with confidence.
+
+We’re most proud of:
+
+Offering life-changing career opportunities to talented software professionals across the Americas.
+
+Building highly-skilled software development teams for hundreds of the world’s greatest companies.
+
+Having delivered hundreds of successful custom software solutions, which have positively impacted the lives and careers of millions of users.
+
+Our 4.1-star rating on GlassDoor.
+
+Our client Net Promoter Score of 68, twice the industry average.
+
+
+The Position
+
+We're looking to hire a Senior Forward Deployed AI Engineer to join our team. You'll work with our incredible clients in one of two ways:
+
+Team Augmentation: You will integrate directly into our client's team and work alongside their existing designers and engineers daily.
+
+Design & Build: You will work on a FullStack product team to build and deliver a product to our clients.
+
+
+What We're Looking For
+
+6+ years of professional software engineering experience.
+
+Intermediate English or higher is required. Advanced English is a plus.
+
+Bachelor's or technical degree in a related field (completed or in progress).
+
+Has designed and shipped LLM-powered solutions to production, including RAG pipelines over enterprise data.
+
+Has worked embedded with enterprise clients, owning the technical deployment of a platform in their environment, from rapid prototypes to production.
+
+Has built custom integrations, data pipelines, and workflows that connect a platform to a client's enterprise systems through APIs.
+
+Has troubleshot complex implementation issues directly with client stakeholders, managed the scope and delivery of those projects, and fed field feedback into a product team's roadmap.
+
+Ability to work through new and difficult issues and contribute to libraries as needed.
+
+Ability to create and maintain continuous integration and delivery of applications.
+
+Forensic attention to detail.
+
+A positive mindset and a can-do attitude.
+
+Experience working on Agile/Scrum teams.
+
+Meaningful experience working on large, complex systems.
+
+Ability to take extreme ownership over your work. Every day is a challenge to ensure you are performing to the expectations you and your team have agreed upon.
+
+Ability to identify with the goals of FullStack's clients and dedicate yourself to delivering on the commitments you and your team make to them.
+
+
+Work Authorization Requirements
+
+Applicants must be legally authorized to work in the United States. FullStack Labs is unable to sponsor or take over sponsorship of an employment visa for this position.
+
+FullStack Labs is an equal opportunity employer. We do not discriminate on the basis of citizenship status, immigration status, or national origin, or any other protected characteristic. FullStack Labs participates in E-Verify.
+
+
+What We Offer
+
+Competitive Salary.
+
+Paid Time Off (vacation, sick leave, parental leave, holidays).
+
+100% remote work.
+
+The ability to work with leading startups and Fortune 500 companies.
+
+Health, dental, and vision insurance.
+
+401(k) w/ 4% match.
+
+Ample opportunity for career advancement.
+
+Continuing education opportunities.
+
+FullStack is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, or Veteran status. 
+
+Learn more about our Applicants Privacy Notice.

@@ -1,0 +1,17 @@
+Data Architect
+Remote
+Apply
+
+
+Centurion Consulting Group
+ • 
+51 - 200 employees
+Learn more about Centurion Consulting Group
+$65.25 - $84/hr
+
+Estimated pay
+Full-time
+Posted 3 hours ago
+Posted today
+Job description
+Job Description Data Architect Is US Citizenship a requirement. YES Performance location: Remote Required Skills: 8+ years in data architecture or database administration on Oracle and SQL Server at enterprise scale Experience planning data migrations, including reconciliation and cutover Strong SQL, PL/SQL and T-SQL; hands-on with database restores (including in containers), profiling and lineage tools Data governance experience: master data, sources of record, survivorship Preferred Skills: Migrations to PostgreSQL using tools such as ora2pg, AWS DMS Schema Conversion or SSMA Day-to-day Responsibilities: Run the Agentic Software Factory database pipeline hands-on across ~3,000 FAA databases (mostly Oracle 19c and SQL Server, some PostgreSQL and MySQL): restores, schema and constraint profiling, and read/write lineage Run data-flow analysis and cross-system duplicate-data analysis; propose canonical entities and authoritative sources of record for FAA decision Plan and size data migration for each wave: mappings, reconciliation approach, cutover and rollback considerations Own the portfolio data model behind the dashboards and keep it current with the Platform Engineer Enforce data-handling rules: aggregate-only profiling, with raw rows staying in the approved environment Expected Deliverables: Database estate assessment (profiling and lineage) for the FAA application portfolio Cross-system duplicate-data analysis, with proposed canonical entities and authoritative sources of record Data migration plan and sizing for each Modernization Wave Proposal (due within 120 days of FAA access) Portfolio data model behind the dashboards

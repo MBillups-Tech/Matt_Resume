@@ -1,0 +1,52 @@
+DevOps Engineer
+Partners Consulting, Inc.
+•
+Wayne, PA 19087 • Remote
+Apply with Indeed
+
+
+
+Job details
+Pay information not provided
+Contract
+Remote in Wayne, PA 19087
+Full job description
+Title: DevOps Engineer
+Location: Remote
+Type: Contract
+
+Our client is seeking a DevOps Engineer who will build and operate the cloud platform, automation, and delivery capabilities that enable teams to develop, deploy, and run secure, reliable, and scalable solutions. This role ensures operational excellence through strong DevOps practices while supporting observability, governance, compliance, and AI oversight requirements.
+
+The DevOps Engineer uses automation to balance speed, reliability, and governance with a strong focus on observability, operational excellence, and platform enablement. The ideal candidate is comfortable supporting both traditional applications and emerging AI-enabled solutions.
+
+Key Accountabilities:
+Establishes and employs CI tools such as Jenkins, Git, Nexus, and configuration management automation tools such as Chef to improve delivery speeds and efficiency.
+Focuses on day-to-day tasks such as closing vulnerabilities and patching applications like Tomcat.
+Works on CI/CD requirements: building pipelines, creating and managing the build and deploy process, and assisting with infrastructure requirements.
+Responsible for developing and helping DevOps documentation for DevOps tools and practices.
+Provides Level 2 support, managing tickets from various IT and business units.
+Identifies manual processes that can be automated.
+Guides application teams in designing, building, testing, and deploying changes to existing software.
+Leverages automation to increase review speed, consistency, and accuracy while reducing process friction.
+
+Required Skills:
+Bachelor's degree or equivalent experience.
+AWS cloud engineering and infrastructure-as-code experience.
+Strong CI/CD, automation, DevOps, and platform engineering background.
+Experience with containers, APIs, distributed systems, and modern software delivery practices.
+Scripting and automation skills (Python, Bash, PowerShell, or similar).
+
+Preferred Qualifications:
+Experience with observability platforms such as CloudWatch, OpenTelemetry, Datadog, Grafana, Prometheus, or Splunk.
+Experience with governance automation, policy-as-code, auditability, and compliance controls.
+Experience in security telemetry, DevSecOps, and regulated industry.
+Experience with AI governance, model monitoring, and agent / LLM observability.
+
+
+Partner's Consulting is an award-winning IT Consulting and Recruiting firm based in the Philadelphia area. We've built personal relationships with our clients over many years and work directly with decision makers on all open positions. Our core values are focused on the highest level of professional dedication to our client's requirements coupled with our desire to partner with highly qualified talent for joint success.
+
+#prt123
+P-26-00129
+This employer uses Indeed, Inc. to generate an AI-powered summary evaluation of your application for this job. By applying, you agree that your application will include such a summary. If you do not agree, do not apply through Indeed. Instead, contact the employer directly to find another way to apply.
+Accommodations
+If you would like to request an accommodation, contact the employer at +14843508171 or by email at slucci@partners-consulting.com.

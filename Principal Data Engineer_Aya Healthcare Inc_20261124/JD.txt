@@ -1,0 +1,55 @@
+Principal Data Engineer
+Remote, US
+Join Aya Healthcare, winner of multiple Top Workplace awards!
+
+The Principal Data Engineer will design, build, and run the data and context foundation that Aya's AI agents depend on. In an AI-native team, data does not support reporting; it drives the intelligence itself. Turn structured and unstructured data from across Aya into governed, versioned, fresh pipelines, retrieval systems, and context that agents reason over, that evaluation runs on, and that Aya's AI product scorecard is measured from.
+
+This person is part of our AI-native team within Aya, which is focused on disrupting the market with AI Native user experiences and AI Native delivery practices, from UX, Product Management, Lean Delivery, Architecture, Engineering, and Evaluation. The team has a startup mentality with a constant eye towards scale, security, quality, and consumer trust.
+
+Who We Are: 
+
+We’re an $8+ billion, rapidly growing workforce solutions provider in the healthcare industry. We deliver tech-enabled services that help healthcare organizations meet and manage their contingent labor needs. We build and manage tech-enabled marketplaces for national and local healthcare talent and deliver contingent labor management solutions through our proprietary software platform.  
+
+At Aya, we’re obsessed with creating exceptional experiences for our clients, clinicians, and employees. In fact, we put employee satisfaction above all else. Our team members are responsible for incomparable customer experience and we know that happy employees are critical to maintaining happy clients. We foster an entrepreneurial, high-energy, low-bureaucracy culture and value innovative thinking and creative problem solving. We embrace diversity in thought and backgrounds unified by a commitment to high achievement. When you join Aya, you’ll be surrounded by teammates who care about you as an individual and leaders who will help you grow both personally and professionally. 
+
+Responsibilities: 
+
+Own the data and context that agents reason over as a product: every dataset, index, and retrieval path has an owner, a freshness and accuracy SLA, versioning, and metrics.
+Design and build the ingestion pipelines for structured and unstructured data (operational systems, documents, transcripts, messages, telemetry), and the models and serving layers that make it usable by agents, evaluation, and the scorecard.
+Design and optimize retrieval: embeddings, indexing, chunking, hybrid search, and the context assembly logic that decides what an agent sees, measured on recall, precision, and relevance, not just uptime.
+Expose data to agents through governed tools and interfaces (APIs, MCP servers, capability contracts) so every agent reads the same source of truth with the right permissions.
+Own the data behind Aya's AI product scorecard: definitions, lineage, freshness, and reconciliation against the business's existing numbers, so every figure can be traced to its source.
+Set the standards for data quality, schema evolution, testing, observability, and cost (storage, compute, embeddings, tokens) across the data platform, and enforce them in the pipeline rather than in a review.
+Find and fix data-quality issues, drift, leakage, duplication, stale context, and gaps before they reach an agent, an evaluation, or a report; when an eval fails because of the data, you own the root cause.
+Build and maintain the evaluation datasets, golden sets, and fixtures with Evaluation Engineering; the scenario suite runs on real, governed data, and retrieval quality is evaluated alongside model behavior.
+Build with AI every day: use coding agents, generated pipelines, and automated quality gates, and stand behind every line that ships.
+Implement responsible data handling for protected health information and personally identifiable information: privacy, access control, retention, de-identification, and audit, as written rules the platform enforces.
+Write designs, tradeoffs, and results into the decision record, demo working pipelines, and work from live telemetry and the work board inside the squads, not from a queue of data requests.
+Required Qualifications:
+
+Bachelor's degree in computer science, data engineering, information systems, or a related field, or equivalent experience.
+8+ years of experience in data engineering, data platform, or analytics engineering, including several years operating production pipelines at scale and at least two years building data for AI or LLM applications.
+Hands-on experience with retrieval systems: vector and hybrid search, embeddings, chunking and indexing strategies, and the context assembly behind RAG or agent workflows.
+Expert SQL and Python, and deep experience with distributed data processing, orchestration, streaming, and modern lakehouse or warehouse platforms.
+Strong grasp of data modeling, schema design, data contracts, lineage, data quality testing, observability, and cost management.
+Ability to communicate designs, tradeoffs, and data limitations clearly to product, engineering, business, and executive audiences, and strong judgment regarding privacy, security, and healthcare regulation.
+Preferred Qualifications:
+
+Experience with Databricks, Azure, Delta Lake, Spark, MLflow, vector stores, feature stores, or streaming platforms such as Event Hubs or Kafka.
+Experience building agent tooling or MCP servers over enterprise data, or evaluation datasets and graders for LLM systems.
+Experience with AI-assisted software development and in healthcare or another regulated environment with sensitive data.
+What We Offer:
+
+Free premium medical, dental, life and vision insurance 
+Generous 401(k) match 
+Aya also offers other benefits to those that are eligible and where required by applicable law, including reimbursements and discretionary bonuses 
+Aya provides paid sick leave in accordance with all applicable state, federal, and local laws. Aya’s general sick leave policy is that employees accrue one hour of paid sick leave for every 30 hours worked. However, to the extent any provisions of the statement above conflict with any applicable paid sick leave laws, the applicable paid sick leave laws are controlling 
+Celebrations! We hit our goals and reward ourselves.  
+Company-sponsored virtual events, happy hours and team-building activities are always on the horizon — plus, you get a special treat on your birthday! 
+Unlimited DTO — we believe in time off!  
+Virtual yoga, meditation or boot camp classes offered daily 
+Compensation: Aya reasonably anticipates the pay scale for this position to be an annual salary of $200,000 to $245,000.  
+
+The pay scale for this position may vary if applicant possesses experience outside of what Aya reasonably anticipates for this position. Bonuses are subject to the role and your manager’s discretion. 
+
+Aya is an Equal Opportunity Employer (EEO), including Disability / Vets, and welcomes all to apply. Please click here for our EEO policy. 

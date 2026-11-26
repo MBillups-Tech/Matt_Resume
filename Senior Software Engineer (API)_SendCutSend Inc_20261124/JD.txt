@@ -1,0 +1,392 @@
+Senior Software Engineer (API)
+Remote, USA
+
+Description
+As a Senior Software Engineer, you are a hands-on builder focused on improving and scaling our platform. You create intuitive tools that help customers turn their designs into manufactured parts without the complexity of traditional CAD and fabrication workflows. Working closely with Product, Production, Design, and Support, you translate real-world needs into reliable, high-quality software that improves both the customer experience and our internal operations.
+
+
+
+Why SendCutSend?
+
+SendCutSend is an on-demand manufacturing company specializing in custom sheet metal and CNC machining. We serve more than 150,000 engineers, fabricators, and businesses across the U.S. and Canada. We operate out of seven facilities located in Nevada, Kentucky, Texas, and Pennsylvania.
+
+
+
+Our business is built on reliability, accountability, quality, and constant improvement. Everyone here plays a real role in our success. We value people who are collaborative, innovative, and committed to detailed high-quality work. We’re scaling fast and building the future of manufacturing. If you’re excited to join the team and grow with us, we want to hear from you! 
+
+
+
+What you’ll do
+
+Design, develop, test, and deploy high-quality software features that address real customer fabrication needs
+Externalize internal APIs into stable, well-documented public interfaces that power customer integrations and agentic workflows
+Build intuitive user experiences that simplify complex design-to-production workflows
+Translate business and production requirements into scalable, maintainable technical solutions
+Review code and contribute to architectural decisions that support long-term platform growth
+Develop automated validation systems to analyze and improve customer CAD files prior to production
+Build tools that detect errors, enforce manufacturability constraints, and reduce production friction
+Improve system reliability through automated testing, monitoring, and performance optimization
+Model and optimize relational database schemas for performance and scalability
+Improve query performance and application responsiveness under high order volume
+Ensure data integrity, security, and maintainability across services
+Partner cross-functionally with Product, Production, Design, and Support to identify high-impact improvements
+Mentor engineers through code reviews and technical guidance
+Contribute to CI/CD pipelines and DevOps practices to improve release velocity and reliability
+Participate in continuous improvement initiatives to refine engineering processes
+Perform other related duties as assigned
+Minimum Qualifications
+
+Bachelor’s degree in Computer Science or a related field
+5+ years of experience designing and shipping high-quality software
+3+ years of experience with modern web architectures such as Ruby on Rails or Python/Django
+3+ years of experience with a modern JavaScript framework such as Vue or React
+Experience building and deploying full-stack web applications end-to-end
+Strong understanding of relational databases, data modeling, and query optimization
+Experience writing well-tested, maintainable code and implementing automated testing strategies
+Ability to analyze user requirements and translate them into technical specifications
+Strong problem-solving skills and attention to detail. Tell us an interesting animal fact in your application 
+Thrive in a collaborative environment where everyone has something to learn from everyone else 
+View software through the eyes of the user and care deeply about customer impact 
+Must be a U.S. Person as defined by ITAR (22 C.F.R. §120.62): U.S. citizen, U.S. national, lawful permanent resident, refugee, or asylee.
+Preferred Qualifications
+
+Significant experience with Ruby on Rails
+Experience architecting user interfaces using Vue and Vuex
+Experience designing and maintaining CI/CD pipelines
+Experience mentoring and developing other engineers
+Experience building systems that integrate with production, manufacturing, or operational workflows
+Familiarity with performance tuning, observability, and production monitoring
+Essential Physical Requirements
+
+Ability to sit and work at a computer for extended periods of time
+Ability to use a computer, phone, and other standard office equipment
+Ability to move throughout an office and manufacturing environment as needed
+Work Environment
+
+This role is based onsite in a fast-paced, collaborative environment that requires consistent communication, organization, and coordination across cross-functional teams. 
+The position may require time spent in or around a manufacturing facility with exposure to moderate noise, moving equipment, and industrial conditions
+ Benefits
+
+Health, Vision & Dental Insurance
+401(k) match up to 4%
+Paid time off
+6 Company-Paid Holidays
+Tuition Reimbursement
+Paid Parental Leave
+Short-Term Disability
+Safety Shoe Voucher
+Employee Discounts!
+Salary Description
+$140,000 - $190,000/annually----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Software Engineer (API)
+Remote, USA
+
+Description
+As a Senior Software Engineer, you are a hands-on builder focused on improving and scaling our platform. You create intuitive tools that help customers turn their designs into manufactured parts without the complexity of traditional CAD and fabrication workflows. Working closely with Product, Production, Design, and Support, you translate real-world needs into reliable, high-quality software that improves both the customer experience and our internal operations.
+
+
+
+Why SendCutSend?
+
+SendCutSend is an on-demand manufacturing company specializing in custom sheet metal and CNC machining. We serve more than 150,000 engineers, fabricators, and businesses across the U.S. and Canada. We operate out of seven facilities located in Nevada, Kentucky, Texas, and Pennsylvania.
+
+
+
+Our business is built on reliability, accountability, quality, and constant improvement. Everyone here plays a real role in our success. We value people who are collaborative, innovative, and committed to detailed high-quality work. We’re scaling fast and building the future of manufacturing. If you’re excited to join the team and grow with us, we want to hear from you! 
+
+
+
+What you’ll do
+
+Design, develop, test, and deploy high-quality software features that address real customer fabrication needs
+Externalize internal APIs into stable, well-documented public interfaces that power customer integrations and agentic workflows
+Build intuitive user experiences that simplify complex design-to-production workflows
+Translate business and production requirements into scalable, maintainable technical solutions
+Review code and contribute to architectural decisions that support long-term platform growth
+Develop automated validation systems to analyze and improve customer CAD files prior to production
+Build tools that detect errors, enforce manufacturability constraints, and reduce production friction
+Improve system reliability through automated testing, monitoring, and performance optimization
+Model and optimize relational database schemas for performance and scalability
+Improve query performance and application responsiveness under high order volume
+Ensure data integrity, security, and maintainability across services
+Partner cross-functionally with Product, Production, Design, and Support to identify high-impact improvements
+Mentor engineers through code reviews and technical guidance
+Contribute to CI/CD pipelines and DevOps practices to improve release velocity and reliability
+Participate in continuous improvement initiatives to refine engineering processes
+Perform other related duties as assigned
+Minimum Qualifications
+
+Bachelor’s degree in Computer Science or a related field
+5+ years of experience designing and shipping high-quality software
+3+ years of experience with modern web architectures such as Ruby on Rails or Python/Django
+3+ years of experience with a modern JavaScript framework such as Vue or React
+Experience building and deploying full-stack web applications end-to-end
+Strong understanding of relational databases, data modeling, and query optimization
+Experience writing well-tested, maintainable code and implementing automated testing strategies
+Ability to analyze user requirements and translate them into technical specifications
+Strong problem-solving skills and attention to detail. Tell us an interesting animal fact in your application 
+Thrive in a collaborative environment where everyone has something to learn from everyone else 
+View software through the eyes of the user and care deeply about customer impact 
+Must be a U.S. Person as defined by ITAR (22 C.F.R. §120.62): U.S. citizen, U.S. national, lawful permanent resident, refugee, or asylee.
+Preferred Qualifications
+
+Significant experience with Ruby on Rails
+Experience architecting user interfaces using Vue and Vuex
+Experience designing and maintaining CI/CD pipelines
+Experience mentoring and developing other engineers
+Experience building systems that integrate with production, manufacturing, or operational workflows
+Familiarity with performance tuning, observability, and production monitoring
+Essential Physical Requirements
+
+Ability to sit and work at a computer for extended periods of time
+Ability to use a computer, phone, and other standard office equipment
+Ability to move throughout an office and manufacturing environment as needed
+Work Environment
+
+This role is based onsite in a fast-paced, collaborative environment that requires consistent communication, organization, and coordination across cross-functional teams. 
+The position may require time spent in or around a manufacturing facility with exposure to moderate noise, moving equipment, and industrial conditions
+ Benefits
+
+Health, Vision & Dental Insurance
+401(k) match up to 4%
+Paid time off
+6 Company-Paid Holidays
+Tuition Reimbursement
+Paid Parental Leave
+Short-Term Disability
+Safety Shoe Voucher
+Employee Discounts!
+Salary Description
+$140,000 - $190,000/annually
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+----------------------------------------------
+Here is basic information you should use.
+Name: Matthew Billups
+Email: billupsmatt773@gmail.com
+Phone: +1 678 636 9885
+Address: Phoenix, AZ 85003
+University: Fort Lewis College - Bachelor of Computer Science and Information Systems
+
+----------------------------------------------
+Here is the Job Description.
+
+Senior Software Engineer (API)
+Remote, USA
+
+Description
+As a Senior Software Engineer, you are a hands-on builder focused on improving and scaling our platform. You create intuitive tools that help customers turn their designs into manufactured parts without the complexity of traditional CAD and fabrication workflows. Working closely with Product, Production, Design, and Support, you translate real-world needs into reliable, high-quality software that improves both the customer experience and our internal operations.
+
+
+
+Why SendCutSend?
+
+SendCutSend is an on-demand manufacturing company specializing in custom sheet metal and CNC machining. We serve more than 150,000 engineers, fabricators, and businesses across the U.S. and Canada. We operate out of seven facilities located in Nevada, Kentucky, Texas, and Pennsylvania.
+
+
+
+Our business is built on reliability, accountability, quality, and constant improvement. Everyone here plays a real role in our success. We value people who are collaborative, innovative, and committed to detailed high-quality work. We’re scaling fast and building the future of manufacturing. If you’re excited to join the team and grow with us, we want to hear from you! 
+
+
+
+What you’ll do
+
+Design, develop, test, and deploy high-quality software features that address real customer fabrication needs
+Externalize internal APIs into stable, well-documented public interfaces that power customer integrations and agentic workflows
+Build intuitive user experiences that simplify complex design-to-production workflows
+Translate business and production requirements into scalable, maintainable technical solutions
+Review code and contribute to architectural decisions that support long-term platform growth
+Develop automated validation systems to analyze and improve customer CAD files prior to production
+Build tools that detect errors, enforce manufacturability constraints, and reduce production friction
+Improve system reliability through automated testing, monitoring, and performance optimization
+Model and optimize relational database schemas for performance and scalability
+Improve query performance and application responsiveness under high order volume
+Ensure data integrity, security, and maintainability across services
+Partner cross-functionally with Product, Production, Design, and Support to identify high-impact improvements
+Mentor engineers through code reviews and technical guidance
+Contribute to CI/CD pipelines and DevOps practices to improve release velocity and reliability
+Participate in continuous improvement initiatives to refine engineering processes
+Perform other related duties as assigned
+Minimum Qualifications
+
+Bachelor’s degree in Computer Science or a related field
+5+ years of experience designing and shipping high-quality software
+3+ years of experience with modern web architectures such as Ruby on Rails or Python/Django
+3+ years of experience with a modern JavaScript framework such as Vue or React
+Experience building and deploying full-stack web applications end-to-end
+Strong understanding of relational databases, data modeling, and query optimization
+Experience writing well-tested, maintainable code and implementing automated testing strategies
+Ability to analyze user requirements and translate them into technical specifications
+Strong problem-solving skills and attention to detail. Tell us an interesting animal fact in your application 
+Thrive in a collaborative environment where everyone has something to learn from everyone else 
+View software through the eyes of the user and care deeply about customer impact 
+Must be a U.S. Person as defined by ITAR (22 C.F.R. §120.62): U.S. citizen, U.S. national, lawful permanent resident, refugee, or asylee.
+Preferred Qualifications
+
+Significant experience with Ruby on Rails
+Experience architecting user interfaces using Vue and Vuex
+Experience designing and maintaining CI/CD pipelines
+Experience mentoring and developing other engineers
+Experience building systems that integrate with production, manufacturing, or operational workflows
+Familiarity with performance tuning, observability, and production monitoring
+Essential Physical Requirements
+
+Ability to sit and work at a computer for extended periods of time
+Ability to use a computer, phone, and other standard office equipment
+Ability to move throughout an office and manufacturing environment as needed
+Work Environment
+
+This role is based onsite in a fast-paced, collaborative environment that requires consistent communication, organization, and coordination across cross-functional teams. 
+The position may require time spent in or around a manufacturing facility with exposure to moderate noise, moving equipment, and industrial conditions
+ Benefits
+
+Health, Vision & Dental Insurance
+401(k) match up to 4%
+Paid time off
+6 Company-Paid Holidays
+Tuition Reimbursement
+Paid Parental Leave
+Short-Term Disability
+Safety Shoe Voucher
+Employee Discounts!
+Salary Description
+$140,000 - $190,000/annually
+
+----------------------------------------------
+Here is my professional experience.
+
+I worked at LaborFirst from 2025-06-01 to 2026-10-01.
+I worked at LCG, INC from 2022-06-01 to 2025-05-01.
+I worked at INHERENT TECHNOLOGIES from 2019-09-01 to 2022-05-01.
+I worked at SILVERADO TECHNOLOGIES from 2015-05-01 to 2019-06-01.
+I worked at MYTEK NETWORK SOLUTIONS from 2012-04-01 to 2015-03-01.
+
+Convert the generated resume above into this Format. Don't change any contents of the above generated resume.
+Technical contents in each experience sentence should be adapted to company duration.
+
+    HTML Strings using <p>, <strong>.
+    <Summary> -
+        No contact information. only summary sentences.
+    <Skills> - 
+        In the Skills section, please include a broader range of relevant skills. Use only technical skills and industry-standard keywords, prefer commonly recognized abbreviations (e.g., CI/CD, ETL, API, SQL, AWS, Azure), and avoid descriptive phrases, soft skills, or explanatory text. Each sentence should has a style - {Broder Name}: {Skills...}.
+    <gen_company> - 
+        Elaborate on my experience, incorporating as many of the extracted keywords as possible.
+    <Job Titles> -
+        Show only one role for the job title for each company. I dont want two closely related roles combined into one job title.
+    <Challenge/Strategy> - 
+        create one <li> challenges/strategy tag for each of all my companies, use <strong> tags
+        
+Output Format.
+    <div id="resume_9226">
+        <div id="gen_summary">
+            one <p> tag
+        </div>
+        <ul id="gen_skill">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="laborfirst">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="lcg, inc">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="inherent technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="silverado technologies">
+            <li>, <strong> only
+        </ul>
+        <ul class="gen_company" data-id="mytek network solutions">
+            <li>, <strong> only
+        </ul>
+        <ul id="gen_job_titles_9226">
+            <li class="gen_job_titles" data-id="laborfirst">laborfirst Job Title</li>
+            <li class="gen_job_titles" data-id="lcg, inc">lcg, inc Job Title</li>
+            <li class="gen_job_titles" data-id="inherent technologies">inherent technologies Job Title</li>
+            <li class="gen_job_titles" data-id="silverado technologies">silverado technologies Job Title</li>
+            <li class="gen_job_titles" data-id="mytek network solutions">mytek network solutions Job Title</li>
+        </ul>
+        <ul id="gen_challenge_strategy_9226">
+            <li class="gen_challenge_strategy" data-id="laborfirst"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="lcg, inc"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="inherent technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="silverado technologies"><strong>Challenge/Strategy: </strong>...</li>
+            <li class="gen_challenge_strategy" data-id="mytek network solutions"><strong>Challenge/Strategy: </strong>...</li>
+        </ul>
+    <div>
+
+Dont use ** string. If you did, use <strong> instead. Make it easy to copy.
+

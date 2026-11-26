@@ -1,0 +1,213 @@
+Senior Software Engineer – Oracle Application Developer
+Fathom Management LLC
+•
+Austin, TX 78741 • Remote
+•
+$120,000 - $130,000 a year
+Apply with Indeed
+
+
+
+Job details
+$120,000 - $130,000 a year
+Tuition reimbursement, Health insurance, 401(k) matching, Paid sick time, Life insurance, Employee assistance program
+Full-time
+Remote in Austin, TX 78741
+Full job description
+Senior Software Engineer – Oracle Application Developer
+Client: Department of Veterans Affairs (VA)
+
+Location: 100% Remote (U.S. Based)
+
+Salary: $120,000 – $130,000 annually (Based on experience and technical interview)
+
+Employment Type: Full-Time
+
+Citizenship: U.S. Citizen Required
+
+Clearance: Must be able to obtain and maintain VA Public Trust suitability determination
+
+Keywords:
+
+Senior Software Engineer
+
+Oracle Application Developer
+
+Oracle Forms 19c
+
+Oracle Reports
+
+Oracle PL/SQL Development
+
+Advanced SQL Development
+
+Oracle Database Architecture
+
+Oracle WebLogic Server
+
+Database Performance Tuning
+
+Linux/Unix Administration
+
+Bash and Shell Scripting
+
+Oracle SQL Developer
+
+TOAD
+
+SQL*Loader
+
+Enterprise Application Development
+
+Legacy Application Support
+
+Application Modernization
+
+Oracle APEX
+
+Software Development Lifecycle (SDLC)
+
+Position Summary
+Fathom Management is seeking an experienced Senior Software Engineer / Oracle Application Developer to support enterprise-level business systems for the Department of Veterans Affairs (VA).
+
+The successful candidate will design, develop, maintain, and modernize enterprise Oracle applications. This role requires extensive hands-on experience with Oracle Forms, Oracle Reports, advanced backend PL/SQL development, and Oracle WebLogic Server environments.
+
+The ideal candidate will possess strong expertise in database architecture, application development, performance tuning, and legacy application support. The individual will be responsible for developing and maintaining interactive user interfaces, creating operational reports, optimizing database performance, and supporting enterprise application deployments.
+
+This is a 100% remote position for qualified U.S.-based candidates.
+
+Candidate Verification Notice
+For your protection and ours, Fathom Management conducts a brief candidate verification at the beginning of the screening process. Because we support State and Federal Government clients, this verification helps protect your identity, résumé, and application from unauthorized use and confirms that we are speaking directly with the individual who applied for the position.
+
+You may be asked to provide a photo of a government-issued identification document as part of this verification. Video verification may also be required.
+
+Identification is used solely for candidate verification and will be handled in accordance with Fathom Management's privacy and security practices.
+
+Background Investigation Requirement
+This position requires fingerprinting and completion of a federal background investigation in connection with obtaining a VA Public Trust suitability determination. Candidates must be willing to complete the required identity verification, fingerprinting, and applicable investigative procedures as a condition of employment.
+
+Screening Process: Initial candidate screenings will be conducted by video through Microsoft Teams.
+Responsibilities/Skill Sets
+Application Development
+
+Design, develop, test, and implement robust client-server applications using Oracle Forms 19c.
+
+Build, modify, debug, and maintain interactive application screens, master-detail blocks, and business layouts.
+
+Develop, maintain, and enhance operational and business reports using Oracle Reports.
+
+Backend Engineering
+
+Write, optimize, and maintain complex backend database architectures, including PL/SQL packages, stored procedures, functions, custom schemas, and database triggers.
+
+Apply advanced SQL techniques, including bulk collections, analytical functions, and structured error-handling frameworks.
+
+Support secure and reliable relational database design.
+
+Oracle WebLogic Administration and Tuning
+
+Configure, manage, and troubleshoot Oracle WebLogic Server environments hosting Forms and Reports services.
+
+Support application deployments, environment configuration, and middleware operations.
+
+Troubleshoot application and middleware issues and support system reliability.
+
+Database Performance Optimization
+
+Conduct application and database performance tuning.
+
+Refactor slow queries and optimize database execution paths.
+
+Optimize indexes, large data loads, and application processing.
+
+Identify opportunities to improve application performance, scalability, and maintainability.
+
+Enterprise Application Support and Modernization
+
+Maintain and enhance existing enterprise Oracle applications.
+
+Participate in application upgrades, migrations, enhancements, and modernization initiatives.
+
+Support software development lifecycle activities, version control, testing, and deployments.
+
+Collaborate with business analysts, technical teams, and end users to resolve issues and deliver application enhancements.
+
+Basic Qualifications
+Technical Expertise
+
+Extensive hands-on experience with Oracle Forms and Oracle Reports, including building, modifying, and debugging complex screens, master-detail blocks, and high-volume data reports.
+
+Advanced SQL and PL/SQL development experience, including packages, stored procedures, functions, triggers, bulk collections, analytical functions, and error-handling frameworks.
+
+Strong familiarity with Oracle WebLogic Server administration, deployment architectures, and environment configuration.
+
+Experience with Oracle SQL Developer, TOAD, and SQL*Loader.
+
+Experience working in Linux/Unix environments.
+
+Bash or shell scripting experience, including cron jobs, configuration management, system logs, and deployments.
+
+Experience with Git, SVN, or other source control systems.
+
+Experience managing enterprise software development lifecycle (SDLC) activities.
+
+Education and Experience
+
+Bachelor's degree in Computer Science, Information Technology, or a closely related technical field.
+
+Eight (8) years of direct professional software engineering experience centered on Oracle development suites and database architecture.
+
+Professional Skills
+
+Exceptional problem-solving, debugging, and analytical skills.
+
+Strong verbal and written communication skills.
+
+Ability to collaborate effectively with cross-functional business analyst teams and end users.
+
+Ability to work independently in a remote environment.
+
+Preferred Qualifications
+
+Active professional certifications in Oracle Database SQL, PL/SQL development, or WebLogic Server Administration.
+
+Experience modernizing legacy systems using Oracle APEX (Application Express).
+
+Interview Preparation
+Candidates should be prepared to discuss their professional experience and hands-on knowledge in the following areas:
+
+Oracle Forms and Oracle Reports development and maintenance.
+
+Advanced PL/SQL development, including stored procedures, functions, packages, and database triggers.
+
+Linux environments and Bash or shell scripting.
+
+Oracle WebLogic Server administration, configuration, deployment, and troubleshooting.
+
+Supporting, maintaining, and modernizing legacy Oracle enterprise applications.
+
+Benefits
+Competitive Salary
+
+Medical, DentalVision Insurance
+
+Life Insurance
+
+Short-TermLong-Term Disability
+
+401(k) with Company Match
+
+Paid Vacation
+
+Paid Sick Leave
+
+Paid Holidays
+
+Tuition Reimbursement
+
+Professional Development
+
+Employee Assistance Program (EAP)
+
+Equal Opportunity Employer
+Fathom Management is proud to be an Equal Opportunity Employer. We are committed to creating an inclusive workplace where all qualified applicants receive consideration for employment without regard to race, color, religion, sex, national origin, age, disability, veteran status, or any other protected status.

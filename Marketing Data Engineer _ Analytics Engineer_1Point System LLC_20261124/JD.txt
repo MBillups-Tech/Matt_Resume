@@ -1,0 +1,5 @@
+Professional, hands-on experience working with Google Analytics data in a business or production environment. Coursework, certifications, or self-directed learning without applied work experience are not sufficient.
+Professional experience supporting data in a retail or ecommerce environment.
+Advanced SQL skills and hands-on experience designing fit-for-purpose data models, transformations, and materializations in Snowflake.
+Working proficiency in Python, including the ability to read, evaluate, troubleshoot, and improve code written by others.
+Experience reviewing API documentation and mapping API objects, endpoints, fields, and identifiers to business requirements.
